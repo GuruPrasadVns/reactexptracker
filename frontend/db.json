@@ -1,0 +1,1220 @@
+{
+  "balances": [
+    {
+      "description": "Initial balance",
+      "type": "addition",
+      "date": "2023-11-25",
+      "account": "hdfc bank rathyatra",
+      "amount": 7331.74,
+      "id": 1
+    },
+    {
+      "description": "intial balance",
+      "type": "addition",
+      "date": "2023-11-25",
+      "account": "hdfc bank coimbatore",
+      "amount": 546083.71,
+      "id": 2
+    },
+    {
+      "description": "Initial balance",
+      "type": "addition",
+      "date": "2023-11-25",
+      "account": "icici bank",
+      "amount": 5011.2,
+      "id": 3
+    },
+    {
+      "description": "Initial balance",
+      "type": "addition",
+      "date": "2023-11-25",
+      "account": "state bank of india",
+      "amount": 17867.32,
+      "id": 4
+    },
+    {
+      "description": "Initial balance",
+      "type": "addition",
+      "date": "2023-11-25",
+      "account": "bank of baroda",
+      "amount": 2121.77,
+      "id": 5
+    },
+    {
+      "description": "initial balance",
+      "type": "addition",
+      "date": "2023-11-25",
+      "account": "cash",
+      "amount": 406,
+      "id": 6
+    },
+    {
+      "description": "transfer to hdfc bank rathyatra",
+      "type": "transfer",
+      "date": "2023-11-26",
+      "account": "hdfc bank coimbatore",
+      "amount": -9000,
+      "id": 7
+    },
+    {
+      "description": "recived from hdfc bank coimbatore",
+      "type": "transfer",
+      "date": "2023-11-26",
+      "account": "hdfc bank rathyatra",
+      "amount": 9000,
+      "id": 8
+    },
+    {
+      "description": "irctc ticket rufund",
+      "type": "addition",
+      "date": "2023-11-26",
+      "account": "state bank of india",
+      "amount": 2790.56,
+      "id": 9
+    },
+    {
+      "description": "irctc ticket refund",
+      "type": "addition",
+      "date": "2023-11-26",
+      "account": "bank of baroda",
+      "amount": 1900.56,
+      "id": 10
+    },
+    {
+      "description": "transfer to cash",
+      "type": "transfer",
+      "date": "2023-11-27",
+      "account": "state bank of india",
+      "amount": -5000,
+      "id": 11
+    },
+    {
+      "description": "recived from state bank of india",
+      "type": "transfer",
+      "date": "2023-11-26",
+      "account": "cash",
+      "amount": 5000,
+      "id": 12
+    },
+    {
+      "description": "lic first nov 23 installment",
+      "type": "investment",
+      "date": "2023-11-28",
+      "account": "hdfc bank coimbatore",
+      "amount": -2466,
+      "id": 13
+    },
+    {
+      "description": "lic second nov 23 installment",
+      "type": "investment",
+      "date": "2023-11-28npm ",
+      "account": "hdfc bank coimbatore",
+      "amount": -2804,
+      "id": 14
+    },
+    {
+      "description": "Nov 23 salary credited",
+      "type": "addition",
+      "date": "2023-11-29",
+      "account": "hdfc bank coimbatore",
+      "amount": 168522,
+      "id": 15
+    },
+    {
+      "description": "transfer to icici bank",
+      "type": "transfer",
+      "date": "2023-11-29",
+      "account": "hdfc bank coimbatore",
+      "amount": -50000,
+      "id": 16
+    },
+    {
+      "description": "recieved from hdfc bank coimbatore",
+      "type": "transfer",
+      "date": "2023-11-29",
+      "account": "icici bank",
+      "amount": 50000,
+      "id": 17
+    },
+    {
+      "description": "transfer to state bank of india",
+      "type": "transfer",
+      "date": "2023-11-29",
+      "account": "hdfc bank coimbatore",
+      "amount": -20000,
+      "id": 18
+    },
+    {
+      "description": "recieved from hdfc bank coimbatore",
+      "type": "transfer",
+      "date": "2023-11-29",
+      "account": "state bank of india",
+      "amount": 20000,
+      "id": 19
+    },
+    {
+      "description": "transfer to bank of baroda",
+      "type": "transfer",
+      "date": "2023-11-29",
+      "account": "hdfc bank coimbatore",
+      "amount": -20000,
+      "id": 20
+    },
+    {
+      "description": "recieved from hdfc bank coimbatore",
+      "type": "transfer",
+      "date": "2023-11-29",
+      "account": "bank of baroda",
+      "amount": 20000,
+      "id": 21
+    },
+    {
+      "description": "transfer to hdfc bank rathyatra",
+      "type": "transfer",
+      "date": "2023-11-29",
+      "account": "hdfc bank coimbatore",
+      "amount": -50000,
+      "id": 22
+    },
+    {
+      "description": "recived from hdfc bank coimbatore",
+      "type": "transfer",
+      "date": "2023-11-29",
+      "account": "hdfc bank rathyatra",
+      "amount": 50000,
+      "id": 23
+    },
+    {
+      "description": "dividend epl",
+      "type": "addition",
+      "date": "2023-11-30",
+      "account": "icici bank",
+      "amount": 2.15,
+      "id": 24
+    },
+    {
+      "description": "irctc refund",
+      "type": "addition",
+      "date": "2023-12-03",
+      "account": "state bank of india",
+      "amount": 1900.56,
+      "id": 25
+    },
+    {
+      "description": "transfer to cash",
+      "type": "transfer",
+      "date": "2023-12-07",
+      "account": "state bank of india",
+      "amount": -5000,
+      "id": 26
+    },
+    {
+      "description": "recieved from state bank of india",
+      "type": "transfer",
+      "date": "2023-12-07",
+      "account": "cash",
+      "amount": 5000,
+      "id": 27
+    },
+    {
+      "description": "irctc refund",
+      "type": "addition",
+      "date": "2023-12-08",
+      "account": "state bank of india",
+      "amount": 1610.56,
+      "id": 28
+    },
+    {
+      "description": "irctc refund",
+      "type": "addition",
+      "date": "2023-12-08",
+      "account": "state bank of india",
+      "amount": 1220.56,
+      "id": 29
+    }
+  ],
+  "expenses": [
+    {
+      "description": "Groceries from reliance",
+      "type": "Groceries Expense",
+      "date": "2023-11-25",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 485.16,
+      "id": 1
+    },
+    {
+      "description": "Sofa from amazon",
+      "type": "Online Shopping",
+      "date": "2023-11-25",
+      "account": "hdfc bank coimbatore",
+      "mode": "Netbanking",
+      "amount": 18999,
+      "id": 2
+    },
+    {
+      "description": "Varanasi electricity bill",
+      "type": "varanasi expense",
+      "date": "2023-11-26",
+      "account": "hdfc bank rathyatra",
+      "mode": "Atm",
+      "amount": 5000,
+      "id": 3
+    },
+    {
+      "description": "shweta medicine from vizul",
+      "type": "health and medical",
+      "date": "2023-11-26",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 46,
+      "id": 4
+    },
+    {
+      "description": "Electricity bill ggn nov23",
+      "type": "Monthly expense",
+      "date": "2023-11-26",
+      "account": "state bank of india",
+      "mode": "Amazon Pay",
+      "amount": 2063,
+      "id": 5
+    },
+    {
+      "description": "groceries (maggi biscuit and bread)",
+      "type": "Groceries Expense",
+      "date": "2023-11-26",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 62,
+      "id": 6
+    },
+    {
+      "description": "phool wala sep23",
+      "type": "Monthly expense",
+      "date": "2023-11-27",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 300,
+      "id": 7
+    },
+    {
+      "description": "tomato half kg from reliance",
+      "type": "Fruits and vegetables",
+      "date": "2023-11-27",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 29.1,
+      "id": 8
+    },
+    {
+      "description": "Milk 27 nov",
+      "type": "Milk expense",
+      "date": "2023-11-27",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 66,
+      "id": 9
+    },
+    {
+      "description": "Ananda Paneer 200gm",
+      "type": "Groceries Expense",
+      "date": "2023-11-27",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 100,
+      "id": 10
+    },
+    {
+      "description": "Pitambari",
+      "type": "Groceries Expense",
+      "date": "2023-11-27",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 45,
+      "id": 11
+    },
+    {
+      "description": "Diya for puja",
+      "type": "Groceries Expense",
+      "date": "2023-11-27",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 30,
+      "id": 12
+    },
+    {
+      "description": "groceries from patanjali",
+      "type": "Groceries Expense",
+      "date": "2023-11-27",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 180,
+      "id": 13
+    },
+    {
+      "description": "Til ka tel",
+      "type": "Groceries Expense",
+      "date": "2023-11-27",
+      "account": "state bank of india",
+      "mode": "phonepe",
+      "amount": 40,
+      "id": 14
+    },
+    {
+      "description": "Chotu mobile repair",
+      "type": "varanasi expense",
+      "date": "2023-11-28",
+      "account": "hdfc bank rathyatra",
+      "mode": "Atm",
+      "amount": 1000,
+      "id": 15
+    },
+    {
+      "description": "Milk 28 nov",
+      "type": "Milk expense",
+      "date": "2023-11-28",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 66,
+      "id": 16
+    },
+    {
+      "description": "Petrol bike",
+      "type": "Monthly expense",
+      "date": "2023-11-29",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 220,
+      "id": 17
+    },
+    {
+      "description": "lunch in office at unikafe",
+      "type": "Extra Expense",
+      "date": "2023-11-29",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 180,
+      "id": 18
+    },
+    {
+      "description": "Harish Bakery samosa and sandwich",
+      "type": "Extra Expense",
+      "date": "2023-11-29",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 150,
+      "id": 19
+    },
+    {
+      "description": "Vegetables 29 nov",
+      "type": "Fruits and vegetables",
+      "date": "2023-11-29",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 75,
+      "id": 20
+    },
+    {
+      "description": "to shweta for home expense",
+      "type": "Monthly expense",
+      "date": "2023-11-29",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 500,
+      "id": 21
+    },
+    {
+      "description": "for phool wala remaining",
+      "type": "Monthly expense",
+      "date": "2023-11-29",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 900,
+      "id": 22
+    },
+    {
+      "description": "vaseline small",
+      "type": "Groceries Expense",
+      "date": "2023-11-29",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 10,
+      "id": 23
+    },
+    {
+      "description": "milk 29 nov",
+      "type": "Milk expense",
+      "date": "2023-11-29",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 66,
+      "id": 24
+    },
+    {
+      "description": "to shweta for home expense",
+      "type": "Monthly expense",
+      "date": "2023-11-30",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 500,
+      "id": 25
+    },
+    {
+      "description": "bike tyre pressure",
+      "type": "essential expense",
+      "date": "2023-11-30",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 10,
+      "id": 26
+    },
+    {
+      "description": "Netflix subscription",
+      "type": "Monthly expense",
+      "date": "2023-11-30",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 199,
+      "id": 27
+    },
+    {
+      "description": "lunch in office canteen",
+      "type": "Extra Expense",
+      "date": "2023-11-30",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 90,
+      "id": 28
+    },
+    {
+      "description": "harish bakery rabri ras malai",
+      "type": "Extra Expense",
+      "date": "2023-11-30",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 110,
+      "id": 29
+    },
+    {
+      "description": "Milk 30 nov",
+      "type": "Milk expense",
+      "date": "2023-11-30",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 66,
+      "id": 30
+    },
+    {
+      "description": "Drain cleaner",
+      "type": "Groceries Expense",
+      "date": "2023-11-30",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 30,
+      "id": 31
+    },
+    {
+      "description": "airtel postpaid bill nov23",
+      "type": "Monthly expense",
+      "date": "2023-12-01",
+      "account": "state bank of india",
+      "mode": "Amazon Pay",
+      "amount": 1178.82,
+      "id": 32
+    },
+    {
+      "description": "vns dth recharge",
+      "type": "Monthly expense",
+      "date": "2023-12-01",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 290,
+      "id": 33
+    },
+    {
+      "description": "ao smith geyser",
+      "type": "Online Shopping",
+      "date": "2023-12-01",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 3124.6,
+      "id": 34
+    },
+    {
+      "description": "bsbs to ndls ticket holi",
+      "type": "travel expense",
+      "date": "2023-12-01",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 2304.3,
+      "id": 35
+    },
+    {
+      "description": "ndls to bsbs bankey wedding",
+      "type": "travel expense",
+      "date": "2023-12-01",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 2304.3,
+      "id": 36
+    },
+    {
+      "description": "bsbs to ndls ticket bankey wedding",
+      "type": "travel expense",
+      "date": "2023-12-01",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 2304.3,
+      "id": 37
+    },
+    {
+      "description": "ggn to jaipur ticket",
+      "type": "travel expense",
+      "date": "2023-12-01",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 2014.3,
+      "id": 38
+    },
+    {
+      "description": "jaipur to ggn ticket",
+      "type": "travel expense",
+      "date": "2023-12-01",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 1624.3,
+      "id": 39
+    },
+    {
+      "description": "Kitchen geyser fitting",
+      "type": "essential expense",
+      "date": "2023-12-01",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 900,
+      "id": 40
+    },
+    {
+      "description": "milk 1 dec",
+      "type": "Milk expense",
+      "date": "2023-12-01",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 66,
+      "id": 41
+    },
+    {
+      "description": "kitchen geyser electric goods",
+      "type": "essential expense",
+      "date": "2023-12-01",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 150,
+      "id": 42
+    },
+    {
+      "description": "vegetables",
+      "type": "Fruits and vegetables",
+      "date": "2023-12-01",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 195,
+      "id": 43
+    },
+    {
+      "description": "shweta for home expense",
+      "type": "Monthly expense",
+      "date": "2023-12-01",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 500,
+      "id": 44
+    },
+    {
+      "description": "shweta beauty parlour",
+      "type": "Extra Expense",
+      "date": "2023-12-01",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 500,
+      "id": 45
+    },
+    {
+      "description": "ggn rent dec 23",
+      "type": "Monthly expense",
+      "date": "2023-12-02",
+      "account": "icici bank",
+      "mode": "Netbanking",
+      "amount": 18000,
+      "id": 46
+    },
+    {
+      "description": "bike tyre puncture",
+      "type": "essential expense",
+      "date": "2023-12-02",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 50,
+      "id": 47
+    },
+    {
+      "description": "Groceries from blinkit",
+      "type": "Groceries Expense",
+      "date": "2023-12-02",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 1543,
+      "id": 48
+    },
+    {
+      "description": "news paper bill",
+      "type": "Monthly expense",
+      "date": "2023-12-02",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 160,
+      "id": 49
+    },
+    {
+      "description": "milk 2 dec",
+      "type": "Milk expense",
+      "date": "2023-12-02",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 66,
+      "id": 50
+    },
+    {
+      "description": "Hair color",
+      "type": "Groceries Expense",
+      "date": "2023-12-02",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 35,
+      "id": 51
+    },
+    {
+      "description": "miscellenous cash",
+      "type": "Extra Expense",
+      "date": "2023-12-03",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 500,
+      "id": 52
+    },
+    {
+      "description": "vegetables 3 dec",
+      "type": "Fruits and vegetables",
+      "date": "2023-12-03",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 60,
+      "id": 53
+    },
+    {
+      "description": "Hair color for shweta",
+      "type": "Groceries Expense",
+      "date": "2023-12-03",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 84,
+      "id": 54
+    },
+    {
+      "description": "Milk 3 dec",
+      "type": "Milk expense",
+      "date": "2023-12-03",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 66,
+      "id": 55
+    },
+    {
+      "description": "varanasi chotu misc",
+      "type": "varanasi expense",
+      "date": "2023-12-03",
+      "account": "hdfc bank rathyatra",
+      "mode": "Atm",
+      "amount": 200,
+      "id": 56
+    },
+    {
+      "description": "kachaudi om sweets",
+      "type": "Extra Expense",
+      "date": "2023-12-04",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 35.7,
+      "id": 57
+    },
+    {
+      "description": "banana 1 dozen",
+      "type": "Fruits and vegetables",
+      "date": "2023-12-04",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 60,
+      "id": 58
+    },
+    {
+      "description": "milk 4 dec",
+      "type": "Milk expense",
+      "date": "2023-12-04",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 66,
+      "id": 59
+    },
+    {
+      "description": "parle g",
+      "type": "Groceries Expense",
+      "date": "2023-12-04",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 20,
+      "id": 60
+    },
+    {
+      "description": "jio mob recharge",
+      "type": "Monthly expense",
+      "date": "2023-12-05",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 240.1,
+      "id": 62
+    },
+    {
+      "description": "cab to hotel marriot",
+      "type": "Extra Expense",
+      "date": "2023-12-05",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 643,
+      "id": 63
+    },
+    {
+      "description": "lunch in office",
+      "type": "Extra Expense",
+      "date": "2023-12-06",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 120,
+      "id": 64
+    },
+    {
+      "description": "shweta for home 6dec",
+      "type": "Monthly expense",
+      "date": "2023-12-06",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 500,
+      "id": 65
+    },
+    {
+      "description": "milk 6 dec",
+      "type": "Milk expense",
+      "date": "2023-12-06",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 66,
+      "id": 66
+    },
+    {
+      "description": "Makhana",
+      "type": "Groceries Expense",
+      "date": "2023-12-06",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 98,
+      "id": 67
+    },
+    {
+      "description": "shweta for home 7 dec",
+      "type": "Monthly expense",
+      "date": "2023-12-07",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 500,
+      "id": 68
+    },
+    {
+      "description": "Diesel for swift",
+      "type": "Monthly expense",
+      "date": "2023-12-07",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 1000,
+      "id": 69
+    },
+    {
+      "description": "Rabdi from om sweets",
+      "type": "Extra Expense",
+      "date": "2023-12-07",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 109.94,
+      "id": 70
+    },
+    {
+      "description": "vegetables",
+      "type": "Fruits and vegetables",
+      "date": "2023-12-07",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 65,
+      "id": 71
+    },
+    {
+      "description": "milk",
+      "type": "Milk expense",
+      "date": "2023-12-07",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 66,
+      "id": 72
+    },
+    {
+      "description": "mishri & panchphoran",
+      "type": "Groceries Expense",
+      "date": "2023-12-07",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 70,
+      "id": 73
+    },
+    {
+      "description": "plumber for bathroom",
+      "type": "essential expense",
+      "date": "2023-12-07",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 500,
+      "id": 74
+    },
+    {
+      "description": "shweta for home expense",
+      "type": "Monthly expense",
+      "date": "2023-12-08",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 500,
+      "id": 75
+    },
+    {
+      "description": "harish bakery sandwich",
+      "type": "Extra Expense",
+      "date": "2023-12-08",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 130,
+      "id": 76
+    },
+    {
+      "description": "groceries and daily stuff from rel",
+      "type": "Groceries Expense",
+      "date": "2023-12-08",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 1246.05,
+      "id": 77
+    },
+    {
+      "description": "vegetables",
+      "type": "Fruits and vegetables",
+      "date": "2023-12-08",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 60,
+      "id": 78
+    },
+    {
+      "description": "apple 1.5 kg",
+      "type": "Fruits and vegetables",
+      "date": "2023-12-08",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 100,
+      "id": 79
+    },
+    {
+      "description": "cab to neelkanth hospital",
+      "type": "Extra Expense",
+      "date": "2023-12-09",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 220,
+      "id": 80
+    },
+    {
+      "description": "cab from neelkanth hosp",
+      "type": "Extra Expense",
+      "date": "2023-12-09",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 210,
+      "id": 81
+    },
+    {
+      "description": "shweta misc",
+      "type": "Monthly expense",
+      "date": "2023-12-09",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 500,
+      "id": 82
+    },
+    {
+      "description": "tamper for mobile",
+      "type": "essential expense",
+      "date": "2023-12-09",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 100,
+      "id": 83
+    },
+    {
+      "description": "Rewari sweets chat & snacks",
+      "type": "Extra Expense",
+      "date": "2023-12-09",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 285,
+      "id": 84
+    },
+    {
+      "description": "shweta test modern",
+      "type": "health and medical",
+      "date": "2023-12-09",
+      "account": "icici bank",
+      "mode": "Atm",
+      "amount": 8010,
+      "id": 85
+    },
+    {
+      "description": "zomato vns",
+      "type": "varanasi expense",
+      "date": "2023-12-09",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 200.11,
+      "id": 86
+    },
+    {
+      "description": "flipkart order for shweta didi",
+      "type": "Online Shopping",
+      "date": "2023-12-08",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 836,
+      "id": 87
+    }
+  ],
+  "paymentmodes": [
+    {
+      "name": "paytm",
+      "description": "associated with sbi",
+      "id": 1
+    },
+    {
+      "name": "phonepe",
+      "description": "assoicated with bob",
+      "id": 2
+    },
+    {
+      "name": "Netbanking",
+      "description": "assoicated with icici",
+      "id": 3
+    },
+    {
+      "name": "cash",
+      "description": "to track cash expense",
+      "id": 4
+    },
+    {
+      "name": "Atm",
+      "description": "to track atm expense",
+      "id": 5
+    },
+    {
+      "name": "Amazon Pay",
+      "description": "to track amzon pay expense",
+      "id": 6
+    }
+  ],
+  "accounts": [
+    {
+      "name": "hdfc bank rathyatra",
+      "description": "family account",
+      "address": "rathyatra varanasi",
+      "balance": 0,
+      "expense": 0,
+      "id": 1
+    },
+    {
+      "name": "hdfc bank coimbatore",
+      "description": "salary account",
+      "address": "rs puram coimbatore",
+      "balance": 0,
+      "expense": 0,
+      "id": 2
+    },
+    {
+      "name": "icici bank",
+      "description": "trading account",
+      "address": "sector 18 noida",
+      "balance": 0,
+      "expense": 0,
+      "id": 3
+    },
+    {
+      "name": "state bank of india",
+      "description": "general purpose account",
+      "address": "shopping center bhu vns",
+      "balance": 0,
+      "expense": 0,
+      "id": 4
+    },
+    {
+      "name": "bank of baroda",
+      "description": "joint account",
+      "address": "lanka vns",
+      "balance": 0,
+      "expense": 0,
+      "id": 5
+    },
+    {
+      "name": "cash",
+      "description": "n/a",
+      "address": "n/a",
+      "balance": 0,
+      "expense": 0,
+      "id": 6
+    }
+  ],
+  "expensetypes": [
+    {
+      "name": "Monthly expense",
+      "description": "to track monthly bills & expense",
+      "id": 1
+    },
+    {
+      "name": "Groceries Expense",
+      "description": "to track groceries expense",
+      "id": 2
+    },
+    {
+      "name": "Online Shopping",
+      "description": "to track shopping expense",
+      "id": 3
+    },
+    {
+      "name": "varanasi expense",
+      "description": "to track home vns expense",
+      "id": 4
+    },
+    {
+      "name": "health and medical",
+      "description": "to track health and medical expense",
+      "id": 5
+    },
+    {
+      "name": "Fruits and vegetables",
+      "description": "to track food and vegetables expense",
+      "id": 6
+    },
+    {
+      "name": "Milk expense",
+      "description": "to track milk expense",
+      "id": 7
+    },
+    {
+      "name": "Extra Expense",
+      "description": "to track extra expense",
+      "id": 8
+    },
+    {
+      "name": "essential expense",
+      "description": "to track essential expense",
+      "id": 9
+    },
+    {
+      "name": "travel expense",
+      "description": "to track travel expense",
+      "id": 10
+    }
+  ],
+  "months": [
+    {
+      "id": 1,
+      "name": "January"
+    },
+    {
+      "id": 2,
+      "name": "February"
+    },
+    {
+      "id": 3,
+      "name": "March"
+    },
+    {
+      "id": 4,
+      "name": "April"
+    },
+    {
+      "id": 5,
+      "name": "May"
+    },
+    {
+      "id": 6,
+      "name": "June"
+    },
+    {
+      "id": 7,
+      "name": "July"
+    },
+    {
+      "id": 8,
+      "name": "August"
+    },
+    {
+      "id": 9,
+      "name": "September"
+    },
+    {
+      "id": 10,
+      "name": "October"
+    },
+    {
+      "id": 11,
+      "name": "November"
+    },
+    {
+      "id": 12,
+      "name": "December"
+    }
+  ],
+  "years": [
+    {
+      "id": 1,
+      "name": "2023"
+    }
+  ],
+  "accounttypes": [
+    {
+      "id": 1,
+      "name": "saving"
+    },
+    {
+      "id": 2,
+      "name": "mutual fund"
+    },
+    {
+      "id": 3,
+      "name": "fixed deposit"
+    },
+    {
+      "id": 4,
+      "name": "share"
+    }
+  ]
+}
