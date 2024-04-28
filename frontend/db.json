@@ -107,7 +107,7 @@
     {
       "description": "lic second nov 23 installment",
       "type": "investment",
-      "date": "2023-11-28npm ",
+      "date": "2023-11-28",
       "account": "hdfc bank coimbatore",
       "amount": -2804,
       "id": 14
@@ -231,6 +231,1446 @@
       "account": "state bank of india",
       "amount": 1220.56,
       "id": 29
+    },
+    {
+      "description": "Adity Birla MF",
+      "type": "investment",
+      "date": "2023-12-11",
+      "account": "hdfc bank coimbatore",
+      "amount": -1000,
+      "id": 30
+    },
+    {
+      "description": "DSP MF",
+      "type": "investment",
+      "date": "2023-12-11",
+      "account": "hdfc bank coimbatore",
+      "amount": -1000,
+      "id": 31
+    },
+    {
+      "description": "Axis MF",
+      "type": "investment",
+      "date": "2023-12-11",
+      "account": "hdfc bank coimbatore",
+      "amount": -1000,
+      "id": 32
+    },
+    {
+      "description": "Icici MF",
+      "type": "investment",
+      "date": "2023-12-11",
+      "account": "hdfc bank coimbatore",
+      "amount": -1000,
+      "id": 33
+    },
+    {
+      "description": "Canara Robecco MF",
+      "type": "investment",
+      "date": "2023-12-11",
+      "account": "hdfc bank coimbatore",
+      "amount": -7000,
+      "id": 34
+    },
+    {
+      "description": "transfer to state bank of india",
+      "type": "transfer",
+      "date": "2023-12-07",
+      "account": "hdfc bank coimbatore",
+      "amount": -20000,
+      "id": 35
+    },
+    {
+      "description": "recieved from hdfc bank coimbatore",
+      "type": "transfer",
+      "date": "2023-12-07",
+      "account": "state bank of india",
+      "amount": 20000,
+      "id": 36
+    },
+    {
+      "description": "transfer to state bank of india",
+      "type": "transfer",
+      "date": "2023-12-15",
+      "account": "bank of baroda",
+      "amount": -5000,
+      "id": 37
+    },
+    {
+      "description": "recieved from bank of baroda",
+      "type": "transfer",
+      "date": "2023-12-15",
+      "account": "state bank of india",
+      "amount": 5000,
+      "id": 38
+    },
+    {
+      "description": "Metro card refund",
+      "type": "addition",
+      "date": "2023-12-15",
+      "account": "state bank of india",
+      "amount": 97.5,
+      "id": 39
+    },
+    {
+      "description": "second metro card refund",
+      "type": "addition",
+      "date": "2023-12-15",
+      "account": "state bank of india",
+      "amount": 97.5,
+      "id": 40
+    },
+    {
+      "description": "transfer to state bank of india",
+      "type": "transfer",
+      "date": "2023-12-17",
+      "account": "bank of baroda",
+      "amount": -5000,
+      "id": 41
+    },
+    {
+      "description": "recieved from bank of baroda",
+      "type": "transfer",
+      "date": "2023-12-17",
+      "account": "state bank of india",
+      "amount": 5000,
+      "id": 42
+    },
+    {
+      "description": "transfer to cash",
+      "type": "transfer",
+      "date": "2023-12-17",
+      "account": "state bank of india",
+      "amount": -5000,
+      "id": 43
+    },
+    {
+      "description": "recieved from state bank of india",
+      "type": "transfer",
+      "date": "2023-12-17",
+      "account": "cash",
+      "amount": 5000,
+      "id": 44
+    },
+    {
+      "description": "Tata mf sip",
+      "type": "investment",
+      "date": "2023-12-17",
+      "account": "bank of baroda",
+      "amount": -5000,
+      "id": 45
+    },
+    {
+      "description": "Canara Robecco MF",
+      "type": "investment",
+      "date": "2023-12-19",
+      "account": "hdfc bank coimbatore",
+      "amount": -7500,
+      "id": 46
+    },
+    {
+      "description": "transfer to cash",
+      "type": "transfer",
+      "date": "2023-12-22",
+      "account": "icici bank",
+      "amount": -10000,
+      "id": 47
+    },
+    {
+      "description": "recieved from icici bank",
+      "type": "transfer",
+      "date": "2023-12-22",
+      "account": "cash",
+      "amount": 10000,
+      "id": 48
+    },
+    {
+      "description": "transfer to state bank of india",
+      "type": "transfer",
+      "date": "2023-12-22",
+      "account": "bank of baroda",
+      "amount": -2000,
+      "id": 49
+    },
+    {
+      "description": "recieved from bank of baroda",
+      "type": "transfer",
+      "date": "2023-12-22",
+      "account": "state bank of india",
+      "amount": 2000,
+      "id": 50
+    },
+    {
+      "description": "added by shweta",
+      "type": "addition",
+      "date": "2023-12-25",
+      "account": "cash",
+      "amount": 340,
+      "id": 51
+    },
+    {
+      "description": "intrest recieved",
+      "type": "addition",
+      "date": "2023-12-25",
+      "account": "state bank of india",
+      "amount": 38,
+      "id": 52
+    },
+    {
+      "description": "dec salary credited",
+      "type": "addition",
+      "date": "2023-12-28",
+      "account": "hdfc bank coimbatore",
+      "amount": 168522,
+      "id": 53
+    },
+    {
+      "description": "lic first dec 23 installment",
+      "type": "investment",
+      "date": "2023-12-28",
+      "account": "hdfc bank coimbatore",
+      "amount": -2466,
+      "id": 54
+    },
+    {
+      "description": "lic second dec 23 installment",
+      "type": "investment",
+      "date": "2023-12-28",
+      "account": "hdfc bank coimbatore",
+      "amount": -2804,
+      "id": 55
+    },
+    {
+      "description": "irctc ticket refund",
+      "type": "addition",
+      "date": "2023-12-26",
+      "account": "icici bank",
+      "amount": 2600.56,
+      "id": 56
+    },
+    {
+      "description": "irctc refund",
+      "type": "addition",
+      "date": "2023-12-26",
+      "account": "icici bank",
+      "amount": 3210.56,
+      "id": 57
+    },
+    {
+      "description": "transfer to bank of baroda",
+      "type": "transfer",
+      "date": "2023-12-27",
+      "account": "state bank of india",
+      "amount": -1000,
+      "id": 58
+    },
+    {
+      "description": "recieved from state bank of india",
+      "type": "transfer",
+      "date": "2023-12-27",
+      "account": "bank of baroda",
+      "amount": 1000,
+      "id": 59
+    },
+    {
+      "description": "transfer to bank of baroda",
+      "type": "transfer",
+      "date": "2023-12-28",
+      "account": "hdfc bank coimbatore",
+      "amount": -20000,
+      "id": 60
+    },
+    {
+      "description": "recieved from hdfc bank coimbatore",
+      "type": "transfer",
+      "date": "2023-12-28",
+      "account": "bank of baroda",
+      "amount": 20000,
+      "id": 61
+    },
+    {
+      "description": "transfer to state bank of india",
+      "type": "transfer",
+      "date": "2023-12-28",
+      "account": "hdfc bank coimbatore",
+      "amount": -20000,
+      "id": 62
+    },
+    {
+      "description": "recieved from hdfc bank coimbatore",
+      "type": "transfer",
+      "date": "2023-12-28",
+      "account": "state bank of india",
+      "amount": 20000,
+      "id": 63
+    },
+    {
+      "description": "transfer to icici bank",
+      "type": "transfer",
+      "date": "2023-12-28",
+      "account": "hdfc bank coimbatore",
+      "amount": -50000,
+      "id": 64
+    },
+    {
+      "description": "recieved from hdfc bank coimbatore",
+      "type": "transfer",
+      "date": "2023-12-28",
+      "account": "icici bank",
+      "amount": 50000,
+      "id": 65
+    },
+    {
+      "description": "interest recieved",
+      "type": "addition",
+      "date": "2023-12-30",
+      "account": "icici bank",
+      "amount": 350,
+      "id": 66
+    },
+    {
+      "description": "transfer to cash",
+      "type": "transfer",
+      "date": "2023-12-31",
+      "account": "icici bank",
+      "amount": -10000,
+      "id": 67
+    },
+    {
+      "description": "recieved from icici bank",
+      "type": "transfer",
+      "date": "2023-12-31",
+      "account": "cash",
+      "amount": 10000,
+      "id": 68
+    },
+    {
+      "description": "Tata mf sip",
+      "type": "investment",
+      "date": "2024-01-02",
+      "account": "state bank of india",
+      "amount": -5000,
+      "id": 69
+    },
+    {
+      "description": "transfer to state bank of india",
+      "type": "transfer",
+      "date": "2024-01-02",
+      "account": "bank of baroda",
+      "amount": -2000,
+      "id": 70
+    },
+    {
+      "description": "recieved from bank of baroda",
+      "type": "transfer",
+      "date": "2024-01-02",
+      "account": "state bank of india",
+      "amount": 2000,
+      "id": 71
+    },
+    {
+      "description": "interest recieved",
+      "type": "addition",
+      "date": "2024-01-01",
+      "account": "hdfc bank rathyatra",
+      "amount": 215,
+      "id": 72
+    },
+    {
+      "description": "interest recieved",
+      "type": "addition",
+      "date": "2024-01-01",
+      "account": "hdfc bank coimbatore",
+      "amount": 4042,
+      "id": 73
+    },
+    {
+      "description": "transfer to state bank of india",
+      "type": "transfer",
+      "date": "2024-01-08",
+      "account": "hdfc bank coimbatore",
+      "amount": -20000,
+      "id": 74
+    },
+    {
+      "description": "recieved from hdfc bank coimbatore",
+      "type": "transfer",
+      "date": "2024-01-08",
+      "account": "state bank of india",
+      "amount": 20000,
+      "id": 75
+    },
+    {
+      "description": "transfer to bank of baroda",
+      "type": "transfer",
+      "date": "2024-01-08",
+      "account": "hdfc bank coimbatore",
+      "amount": -20000,
+      "id": 76
+    },
+    {
+      "description": "recieved from hdfc bank coimbatore",
+      "type": "transfer",
+      "date": "2024-01-08",
+      "account": "bank of baroda",
+      "amount": 20000,
+      "id": 77
+    },
+    {
+      "description": "DSP MF",
+      "type": "investment",
+      "date": "2024-01-10",
+      "account": "hdfc bank coimbatore",
+      "amount": -1000,
+      "id": 78
+    },
+    {
+      "description": "Axis MF",
+      "type": "investment",
+      "date": "2024-01-10",
+      "account": "hdfc bank coimbatore",
+      "amount": -1000,
+      "id": 79
+    },
+    {
+      "description": "Icici MF",
+      "type": "investment",
+      "date": "2024-01-10",
+      "account": "hdfc bank coimbatore",
+      "amount": -1000,
+      "id": 80
+    },
+    {
+      "description": "Adity Birla MF",
+      "type": "investment",
+      "date": "2024-01-10",
+      "account": "hdfc bank coimbatore",
+      "amount": -1000,
+      "id": 81
+    },
+    {
+      "description": "parag parikh mf",
+      "type": "investment",
+      "date": "2024-01-10",
+      "account": "hdfc bank coimbatore",
+      "amount": -7000,
+      "id": 82
+    },
+    {
+      "description": "hdfc bank share",
+      "type": "share investment",
+      "date": "2024-01-10",
+      "account": "icici bank",
+      "amount": -1687.74,
+      "id": 83
+    },
+    {
+      "description": "transfer to cash",
+      "type": "transfer",
+      "date": "2024-01-16",
+      "account": "icici bank",
+      "amount": -10000,
+      "id": 84
+    },
+    {
+      "description": "recieved from icici bank",
+      "type": "transfer",
+      "date": "2024-01-16",
+      "account": "cash",
+      "amount": 10000,
+      "id": 85
+    },
+    {
+      "description": "asian paint share",
+      "type": "share investment",
+      "date": "2024-01-18",
+      "account": "icici bank",
+      "amount": -3167.02,
+      "id": 86
+    },
+    {
+      "description": "Canara Robecco MF",
+      "type": "investment",
+      "date": "2024-01-19",
+      "account": "hdfc bank coimbatore",
+      "amount": -7500,
+      "id": 87
+    },
+    {
+      "description": "transfer to state bank of india",
+      "type": "transfer",
+      "date": "2024-01-23",
+      "account": "bank of baroda",
+      "amount": -5000,
+      "id": 88
+    },
+    {
+      "description": "recieved from bank of baroda",
+      "type": "transfer",
+      "date": "2024-01-23",
+      "account": "state bank of india",
+      "amount": 5000,
+      "id": 89
+    },
+    {
+      "description": "lic first jan 24 installment",
+      "type": "investment",
+      "date": "2024-01-28",
+      "account": "hdfc bank coimbatore",
+      "amount": -2466,
+      "id": 90
+    },
+    {
+      "description": "lic second jan 24 installment",
+      "type": "investment",
+      "date": "2024-01-28",
+      "account": "hdfc bank coimbatore",
+      "amount": -2804,
+      "id": 91
+    },
+    {
+      "description": "transfer to icici bank",
+      "type": "transfer",
+      "date": "2024-01-29",
+      "account": "hdfc bank coimbatore",
+      "amount": -20000,
+      "id": 92
+    },
+    {
+      "description": "recieved from hdfc bank coimbatore",
+      "type": "transfer",
+      "date": "2024-01-29",
+      "account": "icici bank",
+      "amount": 20000,
+      "id": 93
+    },
+    {
+      "description": "transfer to cash",
+      "type": "transfer",
+      "date": "2024-01-29",
+      "account": "hdfc bank coimbatore",
+      "amount": -50000,
+      "id": 94
+    },
+    {
+      "description": "recieved from hdfc bank coimbatore",
+      "type": "transfer",
+      "date": "2024-01-29",
+      "account": "cash",
+      "amount": 50000,
+      "id": 95
+    },
+    {
+      "description": "Jan24 salary credited",
+      "type": "addition",
+      "date": "2023-01-30",
+      "account": "hdfc bank coimbatore",
+      "amount": 168522,
+      "id": 96
+    },
+    {
+      "description": "transfer to cash",
+      "type": "transfer",
+      "date": "2024-01-30",
+      "account": "hdfc bank coimbatore",
+      "amount": -30000,
+      "id": 97
+    },
+    {
+      "description": "recieved from hdfc bank coimbatore",
+      "type": "transfer",
+      "date": "2024-01-30",
+      "account": "cash",
+      "amount": 30000,
+      "id": 98
+    },
+    {
+      "description": "dividend tcs",
+      "type": "addition",
+      "date": "2024-02-05",
+      "account": "icici bank",
+      "amount": 675,
+      "id": 99
+    },
+    {
+      "description": "transfer to bank of baroda",
+      "type": "transfer",
+      "date": "2024-02-03",
+      "account": "hdfc bank rathyatra",
+      "amount": -13500,
+      "id": 100
+    },
+    {
+      "description": "recieved from hdfc bank rathyatra",
+      "type": "transfer",
+      "date": "2024-02-03",
+      "account": "bank of baroda",
+      "amount": 13500,
+      "id": 101
+    },
+    {
+      "description": "transfer to icici direct",
+      "type": "share investment",
+      "date": "2024-02-05",
+      "account": "icici bank",
+      "amount": -2650,
+      "id": 102
+    },
+    {
+      "description": "dividend wipro",
+      "type": "addition",
+      "date": "2024-02-06",
+      "account": "icici bank",
+      "amount": 100,
+      "id": 103
+    },
+    {
+      "description": "transfer to cash",
+      "type": "transfer",
+      "date": "2024-02-06",
+      "account": "icici bank",
+      "amount": -10000,
+      "id": 104
+    },
+    {
+      "description": "recieved from icici bank",
+      "type": "transfer",
+      "date": "2024-02-06",
+      "account": "cash",
+      "amount": 10000,
+      "id": 105
+    },
+    {
+      "description": "transfer to bank of baroda",
+      "type": "transfer",
+      "date": "2024-02-06",
+      "account": "state bank of india",
+      "amount": -1000,
+      "id": 106
+    },
+    {
+      "description": "recieved from state bank of india",
+      "type": "transfer",
+      "date": "2024-02-06",
+      "account": "bank of baroda",
+      "amount": 1000,
+      "id": 107
+    },
+    {
+      "description": "Tata mf sip",
+      "type": "investment",
+      "date": "2024-02-05",
+      "account": "bank of baroda",
+      "amount": -5000,
+      "id": 108
+    },
+    {
+      "description": "Canara Robecco MF",
+      "type": "investment",
+      "date": "2024-02-09",
+      "account": "hdfc bank coimbatore",
+      "amount": -7000,
+      "id": 109
+    },
+    {
+      "description": "transfer to bank of baroda",
+      "type": "transfer",
+      "date": "2024-02-10",
+      "account": "hdfc bank coimbatore",
+      "amount": -10000,
+      "id": 110
+    },
+    {
+      "description": "recieved from hdfc bank coimbatore",
+      "type": "transfer",
+      "date": "2024-02-10",
+      "account": "bank of baroda",
+      "amount": 10000,
+      "id": 111
+    },
+    {
+      "description": "Adity Birla MF",
+      "type": "investment",
+      "date": "2024-02-12",
+      "account": "hdfc bank coimbatore",
+      "amount": -1000,
+      "id": 112
+    },
+    {
+      "description": "DSP MF",
+      "type": "investment",
+      "date": "2024-02-12",
+      "account": "hdfc bank coimbatore",
+      "amount": -1000,
+      "id": 113
+    },
+    {
+      "description": "Axis MF",
+      "type": "investment",
+      "date": "2024-02-12",
+      "account": "hdfc bank coimbatore",
+      "amount": -1000,
+      "id": 114
+    },
+    {
+      "description": "Icici MF",
+      "type": "investment",
+      "date": "2024-02-12",
+      "account": "hdfc bank coimbatore",
+      "amount": -1000,
+      "id": 115
+    },
+    {
+      "description": "Canara Robecco MF",
+      "type": "investment",
+      "date": "2024-02-12",
+      "account": "hdfc bank coimbatore",
+      "amount": -7500,
+      "id": 116
+    },
+    {
+      "description": "transfer to state bank of india",
+      "type": "transfer",
+      "date": "2024-02-10",
+      "account": "bank of baroda",
+      "amount": -1000,
+      "id": 117
+    },
+    {
+      "description": "recieved from bank of baroda",
+      "type": "transfer",
+      "date": "2024-02-10",
+      "account": "state bank of india",
+      "amount": 1000,
+      "id": 118
+    },
+    {
+      "description": "ticket refund",
+      "type": "addition",
+      "date": "2024-02-22",
+      "account": "bank of baroda",
+      "amount": 10521.81,
+      "id": 119
+    },
+    {
+      "description": "transfer to bank of baroda",
+      "type": "transfer",
+      "date": "2024-02-24",
+      "account": "hdfc bank coimbatore",
+      "amount": -15000,
+      "id": 120
+    },
+    {
+      "description": "recieved from hdfc bank coimbatore",
+      "type": "transfer",
+      "date": "2024-02-24",
+      "account": "bank of baroda",
+      "amount": 15000,
+      "id": 121
+    },
+    {
+      "description": "transfer to icici bank",
+      "type": "transfer",
+      "date": "2024-02-27",
+      "account": "hdfc bank coimbatore",
+      "amount": -5000,
+      "id": 122
+    },
+    {
+      "description": "recieved from hdfc bank coimbatore",
+      "type": "transfer",
+      "date": "2024-02-27",
+      "account": "icici bank",
+      "amount": 5000,
+      "id": 123
+    },
+    {
+      "description": "transfer to hdfc bank rathyatra",
+      "type": "transfer",
+      "date": "2024-02-27",
+      "account": "hdfc bank coimbatore",
+      "amount": -11000,
+      "id": 124
+    },
+    {
+      "description": "recieved from hdfc bank coimbatore",
+      "type": "transfer",
+      "date": "2024-02-27",
+      "account": "hdfc bank rathyatra",
+      "amount": 11000,
+      "id": 125
+    },
+    {
+      "description": "lic first feb 24 installment",
+      "type": "investment",
+      "date": "2024-02-28",
+      "account": "hdfc bank coimbatore",
+      "amount": -2466,
+      "id": 126
+    },
+    {
+      "description": "lic second feb 24 installment",
+      "type": "investment",
+      "date": "2024-02-28",
+      "account": "hdfc bank coimbatore",
+      "amount": -2804,
+      "id": 127
+    },
+    {
+      "description": "Feb 24 salary credited",
+      "type": "addition",
+      "date": "2024-02-28",
+      "account": "hdfc bank coimbatore",
+      "amount": 184786,
+      "id": 128
+    },
+    {
+      "description": "transfer to icici bank",
+      "type": "transfer",
+      "date": "2024-02-28",
+      "account": "hdfc bank coimbatore",
+      "amount": -38000,
+      "id": 129
+    },
+    {
+      "description": "recieved from hdfc bank coimbatore",
+      "type": "transfer",
+      "date": "2024-02-28",
+      "account": "icici bank",
+      "amount": 38000,
+      "id": 130
+    },
+    {
+      "description": "transfer to state bank of india",
+      "type": "transfer",
+      "date": "2024-02-28",
+      "account": "hdfc bank coimbatore",
+      "amount": -20000,
+      "id": 131
+    },
+    {
+      "description": "recieved from hdfc bank coimbatore",
+      "type": "transfer",
+      "date": "2024-02-28",
+      "account": "state bank of india",
+      "amount": 20000,
+      "id": 132
+    },
+    {
+      "description": "transfer to hdfc bank rathyatra",
+      "type": "transfer",
+      "date": "2024-02-28",
+      "account": "hdfc bank coimbatore",
+      "amount": -20000,
+      "id": 133
+    },
+    {
+      "description": "recieved from hdfc bank coimbatore",
+      "type": "transfer",
+      "date": "2024-02-28",
+      "account": "hdfc bank rathyatra",
+      "amount": 20000,
+      "id": 134
+    },
+    {
+      "description": "transfer to bank of baroda",
+      "type": "transfer",
+      "date": "2024-02-28",
+      "account": "hdfc bank coimbatore",
+      "amount": -20000,
+      "id": 135
+    },
+    {
+      "description": "recieved from hdfc bank coimbatore",
+      "type": "transfer",
+      "date": "2024-02-27",
+      "account": "bank of baroda",
+      "amount": 20000,
+      "id": 136
+    },
+    {
+      "description": "itc share",
+      "type": "share investment",
+      "date": "2024-02-23",
+      "account": "icici bank",
+      "amount": -2060,
+      "id": 137
+    },
+    {
+      "description": "transfer to cash",
+      "type": "transfer",
+      "date": "2024-02-27",
+      "account": "icici bank",
+      "amount": -5000,
+      "id": 138
+    },
+    {
+      "description": "recieved from icici bank",
+      "type": "transfer",
+      "date": "2024-02-27",
+      "account": "cash",
+      "amount": 5000,
+      "id": 139
+    },
+    {
+      "description": "transfer to state bank of india",
+      "type": "transfer",
+      "date": "2024-02-22",
+      "account": "bank of baroda",
+      "amount": -1000,
+      "id": 140
+    },
+    {
+      "description": "recieved from bank of baroda",
+      "type": "transfer",
+      "date": "2024-02-22",
+      "account": "state bank of india",
+      "amount": 1000,
+      "id": 141
+    },
+    {
+      "description": "refund from airline",
+      "type": "addition",
+      "date": "2024-02-24",
+      "account": "bank of baroda",
+      "amount": 10302,
+      "id": 142
+    },
+    {
+      "description": "asian paint share",
+      "type": "share investment",
+      "date": "2024-03-01",
+      "account": "icici bank",
+      "amount": -5688.29,
+      "id": 143
+    },
+    {
+      "description": "dividend lic",
+      "type": "addition",
+      "date": "2024-03-01",
+      "account": "icici bank",
+      "amount": 64,
+      "id": 144
+    },
+    {
+      "description": "dividend bajaj consumer",
+      "type": "addition",
+      "date": "2024-03-04",
+      "account": "icici bank",
+      "amount": 3,
+      "id": 145
+    },
+    {
+      "description": "refund from airline",
+      "type": "addition",
+      "date": "2024-03-05",
+      "account": "bank of baroda",
+      "amount": 11942,
+      "id": 146
+    },
+    {
+      "description": "refund from irctc",
+      "type": "addition",
+      "date": "2024-03-05",
+      "account": "bank of baroda",
+      "amount": 2410.28,
+      "id": 147
+    },
+    {
+      "description": "money recieved from hirak",
+      "type": "addition",
+      "date": "2024-03-07",
+      "account": "state bank of india",
+      "amount": 5000,
+      "id": 148
+    },
+    {
+      "description": "transfer to icici bank",
+      "type": "transfer",
+      "date": "2024-03-07",
+      "account": "bank of baroda",
+      "amount": -20001,
+      "id": 149
+    },
+    {
+      "description": "recieved from bank of baroda",
+      "type": "transfer",
+      "date": "2024-03-07",
+      "account": "icici bank",
+      "amount": 20001,
+      "id": 150
+    },
+    {
+      "description": "sbi share",
+      "type": "share investment",
+      "date": "2024-03-07",
+      "account": "icici bank",
+      "amount": -789.55,
+      "id": 151
+    },
+    {
+      "description": "icici bank share 2",
+      "type": "share investment",
+      "date": "2024-03-07",
+      "account": "icici bank",
+      "amount": -2176.6,
+      "id": 152
+    },
+    {
+      "description": "irctc share 10",
+      "type": "share investment",
+      "date": "2024-03-07",
+      "account": "icici bank",
+      "amount": -9381.5,
+      "id": 153
+    },
+    {
+      "description": "itc share 5",
+      "type": "share investment",
+      "date": "2024-03-07",
+      "account": "icici bank",
+      "amount": -2066.25,
+      "id": 154
+    },
+    {
+      "description": "irfc share 2",
+      "type": "share investment",
+      "date": "2024-03-07",
+      "account": "icici bank",
+      "amount": -286.5,
+      "id": 155
+    },
+    {
+      "description": "hdfc bank share 2",
+      "type": "share investment",
+      "date": "2024-03-07",
+      "account": "icici bank",
+      "amount": -2893,
+      "id": 156
+    },
+    {
+      "description": "bajaj consumer share 10",
+      "type": "share investment",
+      "date": "2024-03-07",
+      "account": "icici bank",
+      "amount": -2278,
+      "id": 157
+    },
+    {
+      "description": "share misc",
+      "type": "share investment",
+      "date": "2024-03-07",
+      "account": "icici bank",
+      "amount": -128.6,
+      "id": 158
+    },
+    {
+      "description": "Adity Birla MF",
+      "type": "investment",
+      "date": "2024-03-11",
+      "account": "hdfc bank coimbatore",
+      "amount": -1000,
+      "id": 159
+    },
+    {
+      "description": "DSP MF",
+      "type": "investment",
+      "date": "2024-03-11",
+      "account": "hdfc bank coimbatore",
+      "amount": -1000,
+      "id": 160
+    },
+    {
+      "description": "Axis MF",
+      "type": "investment",
+      "date": "2024-03-11",
+      "account": "hdfc bank coimbatore",
+      "amount": -1000,
+      "id": 161
+    },
+    {
+      "description": "Icici MF",
+      "type": "investment",
+      "date": "2024-03-11",
+      "account": "hdfc bank coimbatore",
+      "amount": -1000,
+      "id": 162
+    },
+    {
+      "description": "Canara Robecco MF",
+      "type": "investment",
+      "date": "2024-03-11",
+      "account": "hdfc bank coimbatore",
+      "amount": -7500,
+      "id": 163
+    },
+    {
+      "description": "irfc share purchase",
+      "type": "share investment",
+      "date": "2024-03-15",
+      "account": "icici bank",
+      "amount": -1348,
+      "id": 164
+    },
+    {
+      "description": "transfer to bank of baroda",
+      "type": "transfer",
+      "date": "2024-03-18",
+      "account": "hdfc bank coimbatore",
+      "amount": -19000,
+      "id": 165
+    },
+    {
+      "description": "recieved from hdfc bank coimbatore",
+      "type": "transfer",
+      "date": "2024-03-18",
+      "account": "bank of baroda",
+      "amount": 19000,
+      "id": 166
+    },
+    {
+      "description": "parag parikh mf",
+      "type": "investment",
+      "date": "2024-03-19",
+      "account": "hdfc bank coimbatore",
+      "amount": -8000,
+      "id": 167
+    },
+    {
+      "description": "misc addition",
+      "type": "addition",
+      "date": "2024-03-21",
+      "account": "icici bank",
+      "amount": 4.58,
+      "id": 168
+    },
+    {
+      "description": "irctc ticket refund",
+      "type": "addition",
+      "date": "2024-03-23",
+      "account": "state bank of india",
+      "amount": 1900.56,
+      "id": 169
+    },
+    {
+      "description": "irctc ticket refund",
+      "type": "addition",
+      "date": "2024-03-23",
+      "account": "state bank of india",
+      "amount": 1700.56,
+      "id": 170
+    },
+    {
+      "description": "interest recieved",
+      "type": "addition",
+      "date": "2024-03-25",
+      "account": "state bank of india",
+      "amount": 56,
+      "id": 171
+    },
+    {
+      "description": "transfer to cash",
+      "type": "transfer",
+      "date": "2024-03-17",
+      "account": "bank of baroda",
+      "amount": -5000,
+      "id": 172
+    },
+    {
+      "description": "recieved from bank of baroda",
+      "type": "transfer",
+      "date": "2024-03-17",
+      "account": "cash",
+      "amount": 5000,
+      "id": 173
+    },
+    {
+      "description": "interest recieved",
+      "type": "addition",
+      "date": "2024-03-25",
+      "account": "bank of baroda",
+      "amount": 24,
+      "id": 172
+    },
+    {
+      "description": "March 24 salary credited",
+      "type": "addition",
+      "date": "2024-03-27",
+      "account": "hdfc bank coimbatore",
+      "amount": 527554,
+      "id": 173
+    },
+    {
+      "description": "lic first march 24 installment",
+      "type": "investment",
+      "date": "2024-03-28",
+      "account": "hdfc bank coimbatore",
+      "amount": -2466,
+      "id": 174
+    },
+    {
+      "description": "lic second march 24 installment",
+      "type": "investment",
+      "date": "2024-03-28",
+      "account": "hdfc bank coimbatore",
+      "amount": -2804,
+      "id": 175
+    },
+    {
+      "description": "transfer to hdfc bank rathyatra",
+      "type": "transfer",
+      "date": "2024-03-28",
+      "account": "hdfc bank coimbatore",
+      "amount": -20000,
+      "id": 176
+    },
+    {
+      "description": "recieved from hdfc bank coimbatore",
+      "type": "transfer",
+      "date": "2024-03-28",
+      "account": "hdfc bank rathyatra",
+      "amount": 20000,
+      "id": 177
+    },
+    {
+      "description": "transfer to icici bank",
+      "type": "transfer",
+      "date": "2024-03-28",
+      "account": "hdfc bank coimbatore",
+      "amount": -100000,
+      "id": 178
+    },
+    {
+      "description": "recieved from hdfc bank coimbatore",
+      "type": "transfer",
+      "date": "2024-03-28",
+      "account": "icici bank",
+      "amount": 100000,
+      "id": 179
+    },
+    {
+      "description": "transfer to state bank of india",
+      "type": "transfer",
+      "date": "2024-03-28",
+      "account": "hdfc bank coimbatore",
+      "amount": -50000,
+      "id": 180
+    },
+    {
+      "description": "recieved from hdfc bank coimbatore",
+      "type": "transfer",
+      "date": "2024-03-28",
+      "account": "state bank of india",
+      "amount": 50000,
+      "id": 181
+    },
+    {
+      "description": "transfer to bank of baroda",
+      "type": "transfer",
+      "date": "2024-03-28",
+      "account": "hdfc bank coimbatore",
+      "amount": -50000,
+      "id": 182
+    },
+    {
+      "description": "recieved from hdfc bank coimbatore",
+      "type": "transfer",
+      "date": "2024-03-28",
+      "account": "bank of baroda",
+      "amount": 50000,
+      "id": 183
+    },
+    {
+      "description": "interest recieved",
+      "type": "addition",
+      "date": "2024-04-01",
+      "account": "hdfc bank rathyatra",
+      "amount": 247,
+      "id": 184
+    },
+    {
+      "description": "interest recieved",
+      "type": "addition",
+      "date": "2024-04-01",
+      "account": "hdfc bank coimbatore",
+      "amount": 3234,
+      "id": 185
+    },
+    {
+      "description": "interest recieved",
+      "type": "addition",
+      "date": "2024-03-30",
+      "account": "icici bank",
+      "amount": 141,
+      "id": 186
+    },
+    {
+      "description": "transfer to cash",
+      "type": "transfer",
+      "date": "2024-03-30",
+      "account": "icici bank",
+      "amount": -5000,
+      "id": 187
+    },
+    {
+      "description": "recieved from icici bank",
+      "type": "transfer",
+      "date": "2024-03-30",
+      "account": "cash",
+      "amount": 5000,
+      "id": 188
+    },
+    {
+      "description": "icici sbi and igl share",
+      "type": "share investment",
+      "date": "2024-04-05",
+      "account": "icici bank",
+      "amount": -19889.54,
+      "id": 189
+    },
+    {
+      "description": "parag parikh mf",
+      "type": "investment",
+      "date": "2024-04-09",
+      "account": "hdfc bank coimbatore",
+      "amount": -7500,
+      "id": 190
+    },
+    {
+      "description": "DSP MF",
+      "type": "investment",
+      "date": "2024-04-10",
+      "account": "hdfc bank coimbatore",
+      "amount": -1000,
+      "id": 191
+    },
+    {
+      "description": "Icici MF",
+      "type": "investment",
+      "date": "2024-04-10",
+      "account": "hdfc bank coimbatore",
+      "amount": -1000,
+      "id": 192
+    },
+    {
+      "description": "Axis MF",
+      "type": "investment",
+      "date": "2024-04-10",
+      "account": "hdfc bank coimbatore",
+      "amount": -1000,
+      "id": 193
+    },
+    {
+      "description": "Adity Birla MF",
+      "type": "investment",
+      "date": "2024-04-10",
+      "account": "hdfc bank coimbatore",
+      "amount": -1000,
+      "id": 194
+    },
+    {
+      "description": "Nippon smallcap MF",
+      "type": "investment",
+      "date": "2024-04-12",
+      "account": "hdfc bank coimbatore",
+      "amount": -5000,
+      "id": 195
+    },
+    {
+      "description": "asian paint share",
+      "type": "share investment",
+      "date": "2024-04-10",
+      "account": "icici bank",
+      "amount": -2882.35,
+      "id": 196
+    },
+    {
+      "description": "bajaj consumer share 4",
+      "type": "share investment",
+      "date": "2024-04-10",
+      "account": "icici bank",
+      "amount": -906,
+      "id": 197
+    },
+    {
+      "description": "hdfc bank share 2",
+      "type": "share investment",
+      "date": "2024-04-10",
+      "account": "icici bank",
+      "amount": -3079.2,
+      "id": 198
+    },
+    {
+      "description": "hindalco share 2",
+      "type": "share investment",
+      "date": "2024-04-10",
+      "account": "icici bank",
+      "amount": -1195.4,
+      "id": 199
+    },
+    {
+      "description": "sun pharma share 10",
+      "type": "share investment",
+      "date": "2024-04-12",
+      "account": "icici bank",
+      "amount": -15498.5,
+      "id": 200
+    },
+    {
+      "description": "share brokerage",
+      "type": "share investment",
+      "date": "2024-04-12",
+      "account": "icici bank",
+      "amount": -134.95,
+      "id": 201
+    },
+    {
+      "description": "Tata mf",
+      "type": "investment",
+      "date": "2024-04-10",
+      "account": "state bank of india",
+      "amount": -5000,
+      "id": 202
+    },
+    {
+      "description": "misc",
+      "type": "addition",
+      "date": "2024-04-13",
+      "account": "bank of baroda",
+      "amount": 1012.02,
+      "id": 203
+    },
+    {
+      "description": "Canara Robecco MF",
+      "type": "investment",
+      "date": "2024-04-19",
+      "account": "hdfc bank coimbatore",
+      "amount": -8000,
+      "id": 204
+    },
+    {
+      "description": "transfer to cash",
+      "type": "transfer",
+      "date": "2024-04-17",
+      "account": "icici bank",
+      "amount": -5000,
+      "id": 205
+    },
+    {
+      "description": "recieved from icici bank",
+      "type": "transfer",
+      "date": "2024-04-17",
+      "account": "cash",
+      "amount": 5000,
+      "id": 206
+    },
+    {
+      "description": "kotak bank share 5",
+      "type": "share investment",
+      "date": "2024-04-25",
+      "account": "icici bank",
+      "amount": -8344.53,
+      "id": 207
     }
   ],
   "expenses": [
@@ -542,7 +1982,7 @@
     },
     {
       "description": "bsbs to ndls ticket holi",
-      "type": "travel expense",
+      "type": "train tickets",
       "date": "2023-12-01",
       "account": "state bank of india",
       "mode": "paytm",
@@ -551,7 +1991,7 @@
     },
     {
       "description": "ndls to bsbs bankey wedding",
-      "type": "travel expense",
+      "type": "train tickets",
       "date": "2023-12-01",
       "account": "state bank of india",
       "mode": "paytm",
@@ -560,7 +2000,7 @@
     },
     {
       "description": "bsbs to ndls ticket bankey wedding",
-      "type": "travel expense",
+      "type": "train tickets",
       "date": "2023-12-01",
       "account": "state bank of india",
       "mode": "paytm",
@@ -569,7 +2009,7 @@
     },
     {
       "description": "ggn to jaipur ticket",
-      "type": "travel expense",
+      "type": "train tickets",
       "date": "2023-12-01",
       "account": "state bank of india",
       "mode": "paytm",
@@ -578,7 +2018,7 @@
     },
     {
       "description": "jaipur to ggn ticket",
-      "type": "travel expense",
+      "type": "train tickets",
       "date": "2023-12-01",
       "account": "state bank of india",
       "mode": "paytm",
@@ -978,7 +2418,7 @@
       "date": "2023-12-09",
       "account": "cash",
       "mode": "cash",
-      "amount": 285,
+      "amount": 385,
       "id": 84
     },
     {
@@ -1007,6 +2447,5937 @@
       "mode": "paytm",
       "amount": 836,
       "id": 87
+    },
+    {
+      "description": "Bike back tyre tube",
+      "type": "essential expense",
+      "date": "2023-12-10",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 400,
+      "id": 88
+    },
+    {
+      "description": "Milk",
+      "type": "Milk expense",
+      "date": "2023-12-10",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 66,
+      "id": 89
+    },
+    {
+      "description": "Liquid Surf",
+      "type": "Groceries Expense",
+      "date": "2023-12-10",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 120,
+      "id": 90
+    },
+    {
+      "description": "Bike petrol",
+      "type": "Monthly expense",
+      "date": "2023-12-10",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 220,
+      "id": 91
+    },
+    {
+      "description": "varnasi bike petrol",
+      "type": "varanasi expense",
+      "date": "2023-12-10",
+      "account": "hdfc bank rathyatra",
+      "mode": "Atm",
+      "amount": 200,
+      "id": 92
+    },
+    {
+      "description": "prp treatment",
+      "type": "health and medical",
+      "date": "2023-12-11",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 20000,
+      "id": 93
+    },
+    {
+      "description": "chai & samosa neelkanth hosp",
+      "type": "Extra Expense",
+      "date": "2023-12-11",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 35,
+      "id": 94
+    },
+    {
+      "description": "prp medicines",
+      "type": "health and medical",
+      "date": "2023-12-11",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 776,
+      "id": 95
+    },
+    {
+      "description": "prp medicines2",
+      "type": "health and medical",
+      "date": "2023-12-11",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 1469,
+      "id": 96
+    },
+    {
+      "description": "lunch at neelkanth",
+      "type": "Extra Expense",
+      "date": "2023-12-11",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 90,
+      "id": 97
+    },
+    {
+      "description": "shweta medicines",
+      "type": "health and medical",
+      "date": "2023-12-11",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 1616,
+      "id": 98
+    },
+    {
+      "description": "Idli om sweets dinner",
+      "type": "Extra Expense",
+      "date": "2023-12-11",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 231,
+      "id": 99
+    },
+    {
+      "description": "Groceries from reliance",
+      "type": "Groceries Expense",
+      "date": "2023-12-11",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 307.24,
+      "id": 100
+    },
+    {
+      "description": "miscellenous cash",
+      "type": "Extra Expense",
+      "date": "2023-12-12",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 295,
+      "id": 101
+    },
+    {
+      "description": "vegetables & fruits",
+      "type": "Fruits and vegetables",
+      "date": "2023-12-12",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 280,
+      "id": 102
+    },
+    {
+      "description": "milk",
+      "type": "Milk expense",
+      "date": "2023-12-12",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 66,
+      "id": 103
+    },
+    {
+      "description": "shakarkand chaat",
+      "type": "Extra Expense",
+      "date": "2023-12-12",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 30,
+      "id": 104
+    },
+    {
+      "description": "shweta for home expense",
+      "type": "Monthly expense",
+      "date": "2023-12-13",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 500,
+      "id": 105
+    },
+    {
+      "description": "Office Lunch",
+      "type": "Extra Expense",
+      "date": "2023-12-13",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 50,
+      "id": 106
+    },
+    {
+      "description": "Office Snacks",
+      "type": "Extra Expense",
+      "date": "2023-12-13",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 65,
+      "id": 107
+    },
+    {
+      "description": "Milk",
+      "type": "Milk expense",
+      "date": "2023-12-13",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 66,
+      "id": 108
+    },
+    {
+      "description": "shweta for home expense",
+      "type": "Monthly expense",
+      "date": "2023-12-14",
+      "account": "cash",
+      "mode": "paytm",
+      "amount": 500,
+      "id": 109
+    },
+    {
+      "description": "lunch in office",
+      "type": "Extra Expense",
+      "date": "2023-12-14",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 40,
+      "id": 110
+    },
+    {
+      "description": "patanjali shilajit",
+      "type": "health and medical",
+      "date": "2023-12-14",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 200,
+      "id": 111
+    },
+    {
+      "description": "om sweets rabdi rasmalai",
+      "type": "Extra Expense",
+      "date": "2023-12-14",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 109.94,
+      "id": 112
+    },
+    {
+      "description": "vegetables",
+      "type": "Fruits and vegetables",
+      "date": "2023-12-14",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 70,
+      "id": 113
+    },
+    {
+      "description": "milk",
+      "type": "Milk expense",
+      "date": "2023-12-14",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 66,
+      "id": 114
+    },
+    {
+      "description": "match box",
+      "type": "Groceries Expense",
+      "date": "2023-12-14",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 5,
+      "id": 115
+    },
+    {
+      "description": "bike petrol vns",
+      "type": "varanasi expense",
+      "date": "2023-12-14",
+      "account": "hdfc bank rathyatra",
+      "mode": "Atm",
+      "amount": 200,
+      "id": 116
+    },
+    {
+      "description": "Reliance Trend Vns",
+      "type": "varanasi expense",
+      "date": "2023-12-14",
+      "account": "hdfc bank rathyatra",
+      "mode": "Atm",
+      "amount": 1209,
+      "id": 117
+    },
+    {
+      "description": "Varanasi expense",
+      "type": "varanasi expense",
+      "date": "2023-12-15",
+      "account": "hdfc bank rathyatra",
+      "mode": "Atm",
+      "amount": 2500,
+      "id": 118
+    },
+    {
+      "description": "car cleaner",
+      "type": "Monthly expense",
+      "date": "2023-12-15",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 500,
+      "id": 119
+    },
+    {
+      "description": "Mgf mall parking",
+      "type": "Extra Expense",
+      "date": "2023-12-15",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 110,
+      "id": 120
+    },
+    {
+      "description": "shweta for home expense",
+      "type": "Monthly expense",
+      "date": "2023-12-15",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 1000,
+      "id": 121
+    },
+    {
+      "description": "cement and others",
+      "type": "bathroom renovation",
+      "date": "2023-12-16",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 1000,
+      "id": 122
+    },
+    {
+      "description": "Milk",
+      "type": "Milk expense",
+      "date": "2023-12-16",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 66,
+      "id": 123
+    },
+    {
+      "description": "Vim Bar",
+      "type": "Groceries Expense",
+      "date": "2023-12-16",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 30,
+      "id": 124
+    },
+    {
+      "description": "Groceries from reliance",
+      "type": "Groceries Expense",
+      "date": "2023-12-17",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 478.68,
+      "id": 125
+    },
+    {
+      "description": "groundnut oil",
+      "type": "Groceries Expense",
+      "date": "2023-12-17",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 225,
+      "id": 126
+    },
+    {
+      "description": "baati chokha vns",
+      "type": "varanasi expense",
+      "date": "2023-12-16",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 639.86,
+      "id": 127
+    },
+    {
+      "description": "plumber",
+      "type": "bathroom renovation",
+      "date": "2023-12-16",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 500,
+      "id": 128
+    },
+    {
+      "description": "bhola plumber bath cleaning",
+      "type": "essential expense",
+      "date": "2023-12-16",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 200,
+      "id": 129
+    },
+    {
+      "description": "shweta for misc",
+      "type": "Extra Expense",
+      "date": "2023-12-16",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 30,
+      "id": 130
+    },
+    {
+      "description": "bathroom mirror",
+      "type": "bathroom renovation",
+      "date": "2023-12-17",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 300,
+      "id": 131
+    },
+    {
+      "description": "Tiles and its materials",
+      "type": "bathroom renovation",
+      "date": "2023-12-17",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 1700,
+      "id": 132
+    },
+    {
+      "description": "cement",
+      "type": "bathroom renovation",
+      "date": "2023-12-17",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 390,
+      "id": 133
+    },
+    {
+      "description": "plumber",
+      "type": "bathroom renovation",
+      "date": "2023-12-17",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 2500,
+      "id": 134
+    },
+    {
+      "description": "shweta misc",
+      "type": "Groceries Expense",
+      "date": "2023-12-17",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 100,
+      "id": 135
+    },
+    {
+      "description": "Security Gurard nov dec",
+      "type": "Monthly expense",
+      "date": "2023-12-17",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 1000,
+      "id": 136
+    },
+    {
+      "description": "milk",
+      "type": "Milk expense",
+      "date": "2023-12-18",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 137
+    },
+    {
+      "description": "om sweets kachaudi",
+      "type": "Extra Expense",
+      "date": "2023-12-18",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 71.4,
+      "id": 138
+    },
+    {
+      "description": "milk",
+      "type": "Milk expense",
+      "date": "2023-12-19",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 139
+    },
+    {
+      "description": "dhaniya powder and biscuits",
+      "type": "Groceries Expense",
+      "date": "2023-12-19",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 80,
+      "id": 140
+    },
+    {
+      "description": "Kooda wala",
+      "type": "Monthly expense",
+      "date": "2023-12-19",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 100,
+      "id": 141
+    },
+    {
+      "description": "Tiles wala",
+      "type": "bathroom renovation",
+      "date": "2023-12-18",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 1500,
+      "id": 142
+    },
+    {
+      "description": "patti for tiles",
+      "type": "travel expense",
+      "date": "2023-12-18",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 30,
+      "id": 143
+    },
+    {
+      "description": "misc expense",
+      "type": "Groceries Expense",
+      "date": "2023-12-18",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 200,
+      "id": 144
+    },
+    {
+      "description": "petrol vns",
+      "type": "varanasi expense",
+      "date": "2023-12-21",
+      "account": "hdfc bank rathyatra",
+      "mode": "Atm",
+      "amount": 100,
+      "id": 145
+    },
+    {
+      "description": "insufficient balance charge",
+      "type": "Extra Expense",
+      "date": "2023-12-18",
+      "account": "state bank of india",
+      "mode": "Netbanking",
+      "amount": 23.6,
+      "id": 146
+    },
+    {
+      "description": "vegetables & fruits",
+      "type": "Fruits and vegetables",
+      "date": "2023-12-19",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 70,
+      "id": 147
+    },
+    {
+      "description": "milk",
+      "type": "Milk expense",
+      "date": "2023-12-20",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 148
+    },
+    {
+      "description": "curd",
+      "type": "Groceries Expense",
+      "date": "2023-12-20",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 34,
+      "id": 149
+    },
+    {
+      "description": "neelkamal chair",
+      "type": "Online Shopping",
+      "date": "2023-12-20",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 2480,
+      "id": 150
+    },
+    {
+      "description": "alovera gel and honey",
+      "type": "Groceries Expense",
+      "date": "2023-12-20",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 290,
+      "id": 151
+    },
+    {
+      "description": "shakarkand chaat",
+      "type": "Extra Expense",
+      "date": "2023-12-20",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 30,
+      "id": 152
+    },
+    {
+      "description": "vegetables & fruits",
+      "type": "Fruits and vegetables",
+      "date": "2023-12-20",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 90,
+      "id": 153
+    },
+    {
+      "description": "milk",
+      "type": "Milk expense",
+      "date": "2023-12-21",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 54,
+      "id": 154
+    },
+    {
+      "description": "Hirak ",
+      "type": "Money Given",
+      "date": "2023-12-22",
+      "account": "hdfc bank coimbatore",
+      "mode": "Netbanking",
+      "amount": 5000,
+      "id": 155
+    },
+    {
+      "description": "ggn airtel dth recharge",
+      "type": "Monthly expense",
+      "date": "2023-12-21",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 240,
+      "id": 156
+    },
+    {
+      "description": "om sweets kachaudi",
+      "type": "Extra Expense",
+      "date": "2023-12-22",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 71.4,
+      "id": 157
+    },
+    {
+      "description": "milk",
+      "type": "Milk expense",
+      "date": "2023-12-22",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 158
+    },
+    {
+      "description": "shweta medicine neelkanth",
+      "type": "health and medical",
+      "date": "2023-12-22",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 279,
+      "id": 159
+    },
+    {
+      "description": "Milk",
+      "type": "Milk expense",
+      "date": "2023-12-23",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 160
+    },
+    {
+      "description": "pitambari and biscuits",
+      "type": "Groceries Expense",
+      "date": "2023-12-23",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 65,
+      "id": 161
+    },
+    {
+      "description": "Stamp duty affidavit",
+      "type": "essential expense",
+      "date": "2023-12-23",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 110,
+      "id": 162
+    },
+    {
+      "description": "affidavit typing",
+      "type": "essential expense",
+      "date": "2023-12-23",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 200,
+      "id": 163
+    },
+    {
+      "description": "groceries from reliance",
+      "type": "Groceries Expense",
+      "date": "2023-12-23",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 188,
+      "id": 164
+    },
+    {
+      "description": "Groceries from reliance",
+      "type": "Groceries Expense",
+      "date": "2023-12-23",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 140,
+      "id": 165
+    },
+    {
+      "description": "banana",
+      "type": "Fruits and vegetables",
+      "date": "2023-12-23",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 30,
+      "id": 166
+    },
+    {
+      "description": "milk",
+      "type": "Milk expense",
+      "date": "2023-12-24",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 167
+    },
+    {
+      "description": "sugar",
+      "type": "Groceries Expense",
+      "date": "2023-12-24",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 60,
+      "id": 168
+    },
+    {
+      "description": "Tiles wala",
+      "type": "bathroom renovation",
+      "date": "2023-12-23",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 1000,
+      "id": 169
+    },
+    {
+      "description": "varnasi bike petrol",
+      "type": "varanasi expense",
+      "date": "2023-12-25",
+      "account": "hdfc bank rathyatra",
+      "mode": "Atm",
+      "amount": 100,
+      "id": 170
+    },
+    {
+      "description": "ndls to bsb ticket",
+      "type": "travel expense",
+      "date": "2023-12-24",
+      "account": "icici bank",
+      "mode": "Netbanking",
+      "amount": 3637.9,
+      "id": 171
+    },
+    {
+      "description": "bsb to ndls ticket",
+      "type": "travel expense",
+      "date": "2023-12-24",
+      "account": "icici bank",
+      "mode": "Netbanking",
+      "amount": 3527.9,
+      "id": 172
+    },
+    {
+      "description": "vegetables",
+      "type": "Fruits and vegetables",
+      "date": "2023-12-24",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 100,
+      "id": 173
+    },
+    {
+      "description": "milk",
+      "type": "Milk expense",
+      "date": "2023-12-25",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 174
+    },
+    {
+      "description": "bread",
+      "type": "Groceries Expense",
+      "date": "2023-12-25",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 28,
+      "id": 175
+    },
+    {
+      "description": "vegetables",
+      "type": "Fruits and vegetables",
+      "date": "2023-12-25",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 60,
+      "id": 176
+    },
+    {
+      "description": "plumber",
+      "type": "bathroom renovation",
+      "date": "2023-12-24",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 3500,
+      "id": 177
+    },
+    {
+      "description": "washing machine pipe",
+      "type": "essential expense",
+      "date": "2023-12-25",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 350,
+      "id": 178
+    },
+    {
+      "description": "shweta hair dye",
+      "type": "Monthly expense",
+      "date": "2023-12-25",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 150,
+      "id": 179
+    },
+    {
+      "description": "vns chotu",
+      "type": "varanasi expense",
+      "date": "2023-12-26",
+      "account": "hdfc bank rathyatra",
+      "mode": "Atm",
+      "amount": 500,
+      "id": 180
+    },
+    {
+      "description": "patanjali tablet shweta",
+      "type": "health and medical",
+      "date": "2023-12-26",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 300,
+      "id": 181
+    },
+    {
+      "description": "Milk",
+      "type": "Milk expense",
+      "date": "2023-12-26",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 182
+    },
+    {
+      "description": "cab to neelkanth hospital",
+      "type": "travel expense",
+      "date": "2023-12-26",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 240,
+      "id": 183
+    },
+    {
+      "description": "moong halwa om sweets",
+      "type": "Extra Expense",
+      "date": "2023-12-26",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 144.38,
+      "id": 184
+    },
+    {
+      "description": "patanjali amla and others",
+      "type": "health and medical",
+      "date": "2023-12-26",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 525,
+      "id": 185
+    },
+    {
+      "description": "cab to neelkanth hospital",
+      "type": "travel expense",
+      "date": "2023-12-26",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 220,
+      "id": 186
+    },
+    {
+      "description": "Dosa Om sweets",
+      "type": "Extra Expense",
+      "date": "2023-12-26",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 357,
+      "id": 187
+    },
+    {
+      "description": "milk",
+      "type": "Milk expense",
+      "date": "2023-12-28",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 66,
+      "id": 188
+    },
+    {
+      "description": "biscuit reliance",
+      "type": "Groceries Expense",
+      "date": "2023-12-28",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 19.6,
+      "id": 189
+    },
+    {
+      "description": "Milk",
+      "type": "Milk expense",
+      "date": "2023-12-27",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 190
+    },
+    {
+      "description": "Ghee for puja",
+      "type": "Groceries Expense",
+      "date": "2023-12-27",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 248,
+      "id": 191
+    },
+    {
+      "description": "samosa om sweets",
+      "type": "Extra Expense",
+      "date": "2023-12-27",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 35.7,
+      "id": 192
+    },
+    {
+      "description": "Apple",
+      "type": "Fruits and vegetables",
+      "date": "2023-12-27",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 100,
+      "id": 193
+    },
+    {
+      "description": "vegetables",
+      "type": "Fruits and vegetables",
+      "date": "2023-12-27",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 100,
+      "id": 194
+    },
+    {
+      "description": "cab to neelkanth hospital",
+      "type": "cab expense",
+      "date": "2023-12-28",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 210,
+      "id": 195
+    },
+    {
+      "description": "shweta medicine",
+      "type": "health and medical",
+      "date": "2023-12-28",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 1088,
+      "id": 196
+    },
+    {
+      "description": "Neelkanth hosp tea and samosa",
+      "type": "Extra Expense",
+      "date": "2023-12-28",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 55,
+      "id": 197
+    },
+    {
+      "description": "cab to home from neelkanth hosp",
+      "type": "cab expense",
+      "date": "2023-12-28",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 210,
+      "id": 198
+    },
+    {
+      "description": "plumber",
+      "type": "bathroom renovation",
+      "date": "2023-12-28",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 1500,
+      "id": 199
+    },
+    {
+      "description": "milk",
+      "type": "Milk expense",
+      "date": "2023-12-28",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 66,
+      "id": 200
+    },
+    {
+      "description": "guava",
+      "type": "Fruits and vegetables",
+      "date": "2023-12-28",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 50,
+      "id": 201
+    },
+    {
+      "description": "cycle tyre pressure",
+      "type": "essential expense",
+      "date": "2023-12-28",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 20,
+      "id": 202
+    },
+    {
+      "description": "airtel dth vns",
+      "type": "Monthly expense",
+      "date": "2023-12-29",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 290,
+      "id": 203
+    },
+    {
+      "description": "Groceries from reliance",
+      "type": "Groceries Expense",
+      "date": "2023-12-28",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 200,
+      "id": 204
+    },
+    {
+      "description": "vns chotu",
+      "type": "varanasi expense",
+      "date": "2023-12-29",
+      "account": "hdfc bank rathyatra",
+      "mode": "Atm",
+      "amount": 500,
+      "id": 205
+    },
+    {
+      "description": "banglore to delhi",
+      "type": "flight ticket",
+      "date": "2023-12-29",
+      "account": "icici bank",
+      "mode": "Netbanking",
+      "amount": 13788,
+      "id": 206
+    },
+    {
+      "description": "Delhi to banglore",
+      "type": "flight ticket",
+      "date": "2023-12-29",
+      "account": "icici bank",
+      "mode": "Netbanking",
+      "amount": 11850,
+      "id": 207
+    },
+    {
+      "description": "vegetables",
+      "type": "Fruits and vegetables",
+      "date": "2023-12-29",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 95,
+      "id": 208
+    },
+    {
+      "description": "Neflix subscription",
+      "type": "Monthly expense",
+      "date": "2023-12-29",
+      "account": "state bank of india",
+      "mode": "Netbanking",
+      "amount": 199,
+      "id": 209
+    },
+    {
+      "description": "milk",
+      "type": "Milk expense",
+      "date": "2023-12-30",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 66,
+      "id": 210
+    },
+    {
+      "description": "Groceries from reliance",
+      "type": "Groceries Expense",
+      "date": "2023-12-30",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 169.88,
+      "id": 211
+    },
+    {
+      "description": "vns to banglore",
+      "type": "train tickets",
+      "date": "2023-12-29",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 6968.6,
+      "id": 212
+    },
+    {
+      "description": "banglore to vns",
+      "type": "train tickets",
+      "date": "2023-12-29",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 7824.65,
+      "id": 213
+    },
+    {
+      "description": "Tiles wala",
+      "type": "bathroom renovation",
+      "date": "2023-12-29",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 1000,
+      "id": 214
+    },
+    {
+      "description": "misc",
+      "type": "Groceries Expense",
+      "date": "2023-12-29",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 32,
+      "id": 215
+    },
+    {
+      "description": "chotu petrol",
+      "type": "varanasi expense",
+      "date": "2023-12-31",
+      "account": "hdfc bank rathyatra",
+      "mode": "Atm",
+      "amount": 100,
+      "id": 216
+    },
+    {
+      "description": "bike petrol",
+      "type": "Monthly expense",
+      "date": "2023-12-30",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 220,
+      "id": 217
+    },
+    {
+      "description": "milk",
+      "type": "Milk expense",
+      "date": "2023-12-31",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 66,
+      "id": 218
+    },
+    {
+      "description": "mother dairy paneer",
+      "type": "Groceries Expense",
+      "date": "2023-12-31",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 93.1,
+      "id": 219
+    },
+    {
+      "description": "protinex",
+      "type": "health and medical",
+      "date": "2023-12-31",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 661.5,
+      "id": 220
+    },
+    {
+      "description": "duracell 4 batteries",
+      "type": "Groceries Expense",
+      "date": "2023-12-31",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 171,
+      "id": 221
+    },
+    {
+      "description": "Gillete blade",
+      "type": "Groceries Expense",
+      "date": "2023-12-31",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 269.5,
+      "id": 222
+    },
+    {
+      "description": "garbage collector",
+      "type": "bathroom renovation",
+      "date": "2023-12-31",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 150,
+      "id": 223
+    },
+    {
+      "description": "misc",
+      "type": "Groceries Expense",
+      "date": "2023-12-31",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 100,
+      "id": 224
+    },
+    {
+      "description": "Shweta Mob recharge",
+      "type": "Monthly expense",
+      "date": "2023-12-31",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 779,
+      "id": 225
+    },
+    {
+      "description": "Center table first",
+      "type": "Household",
+      "date": "2023-12-31",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 5000,
+      "id": 226
+    },
+    {
+      "description": "chair",
+      "type": "Household",
+      "date": "2023-12-31",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 1400,
+      "id": 227
+    },
+    {
+      "description": "basmati rice",
+      "type": "Groceries Expense",
+      "date": "2023-12-31",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 449,
+      "id": 228
+    },
+    {
+      "description": "tata poha",
+      "type": "Groceries Expense",
+      "date": "2023-12-31",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 52,
+      "id": 229
+    },
+    {
+      "description": "patanjali atta 5kg",
+      "type": "Groceries Expense",
+      "date": "2023-12-31",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 210,
+      "id": 230
+    },
+    {
+      "description": "airtel pospaid bill dec23",
+      "type": "Monthly expense",
+      "date": "2024-01-01",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 1178.82,
+      "id": 231
+    },
+    {
+      "description": "Milk",
+      "type": "Milk",
+      "date": "2024-01-01",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 66,
+      "id": 232
+    },
+    {
+      "description": "parle g",
+      "type": "Groceries Expense",
+      "date": "2024-01-01",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 20,
+      "id": 233
+    },
+    {
+      "description": "Phool mala",
+      "type": "General Expense",
+      "date": "2024-01-01",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 10,
+      "id": 234
+    },
+    {
+      "description": "center table second",
+      "type": "Household",
+      "date": "2024-01-01",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 3000,
+      "id": 235
+    },
+    {
+      "description": "shweta misc",
+      "type": "General Expense",
+      "date": "2024-01-01",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 500,
+      "id": 236
+    },
+    {
+      "description": "Maid",
+      "type": "Monthly expense",
+      "date": "2024-01-01",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 2200,
+      "id": 237
+    },
+    {
+      "description": "udemy aws course",
+      "type": "personal expense",
+      "date": "2024-01-01",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 389,
+      "id": 238
+    },
+    {
+      "description": "Vegetables",
+      "type": "Fruits and vegetables",
+      "date": "2024-01-01",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 60,
+      "id": 239
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-01-02",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 66,
+      "id": 240
+    },
+    {
+      "description": "om sweets kachaudi",
+      "type": "outside food",
+      "date": "2024-01-02",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 35.7,
+      "id": 241
+    },
+    {
+      "description": "transfer to shweta account",
+      "type": "General Expense",
+      "date": "2024-01-02",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 1000,
+      "id": 242
+    },
+    {
+      "description": "cab to neelkanth hospital",
+      "type": "cab expense",
+      "date": "2024-01-02",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 190,
+      "id": 243
+    },
+    {
+      "description": "news paper bill dec 23",
+      "type": "Monthly expense",
+      "date": "2024-01-02",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 160,
+      "id": 244
+    },
+    {
+      "description": "toto neelkanth to dronacharya",
+      "type": "cab expense",
+      "date": "2024-01-02",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 20,
+      "id": 245
+    },
+    {
+      "description": "dronacharya to mg road auto",
+      "type": "cab expense",
+      "date": "2024-01-02",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 72,
+      "id": 246
+    },
+    {
+      "description": "Burger King",
+      "type": "outside food",
+      "date": "2024-01-02",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 840,
+      "id": 247
+    },
+    {
+      "description": "Cab mg road to home",
+      "type": "cab expense",
+      "date": "2024-01-02",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 300,
+      "id": 248
+    },
+    {
+      "description": "jio mob recharge",
+      "type": "Monthly expense",
+      "date": "2024-01-02",
+      "account": "state bank of india",
+      "mode": "Amazon Pay",
+      "amount": 239,
+      "id": 249
+    },
+    {
+      "description": "ivf first",
+      "type": "ivf neelkanth",
+      "date": "2024-01-03",
+      "account": "hdfc bank coimbatore",
+      "mode": "Atm",
+      "amount": 80000,
+      "id": 250
+    },
+    {
+      "description": "My blood test neelkanth",
+      "type": "health and medical",
+      "date": "2024-01-03",
+      "account": "icici bank",
+      "mode": "Atm",
+      "amount": 3350,
+      "id": 251
+    },
+    {
+      "description": "Milk",
+      "type": "Milk",
+      "date": "2024-01-03",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 66,
+      "id": 252
+    },
+    {
+      "description": "cab to neelkanth hospital",
+      "type": "cab expense",
+      "date": "2024-01-03",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 226,
+      "id": 253
+    },
+    {
+      "description": "shweta medicine",
+      "type": "ivf neelkanth",
+      "date": "2024-01-03",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 541,
+      "id": 254
+    },
+    {
+      "description": "canteen neelkanth",
+      "type": "outside food",
+      "date": "2024-01-03",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 30,
+      "id": 255
+    },
+    {
+      "description": "cab to home",
+      "type": "cab expense",
+      "date": "2024-01-03",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 247,
+      "id": 256
+    },
+    {
+      "description": "cab to neelkanth hospital",
+      "type": "cab expense",
+      "date": "2024-01-03",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 190,
+      "id": 257
+    },
+    {
+      "description": "cab to home",
+      "type": "cab expense",
+      "date": "2024-01-03",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 200,
+      "id": 258
+    },
+    {
+      "description": "cab to neelkanth hospital",
+      "type": "cab expense",
+      "date": "2024-01-04",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 249,
+      "id": 259
+    },
+    {
+      "description": "cab to office",
+      "type": "cab expense",
+      "date": "2024-01-04",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 230,
+      "id": 260
+    },
+    {
+      "description": "cab to home",
+      "type": "cab expense",
+      "date": "2024-01-04",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 200,
+      "id": 261
+    },
+    {
+      "description": "paneer",
+      "type": "Groceries Expense",
+      "date": "2024-01-03",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 100,
+      "id": 262
+    },
+    {
+      "description": "vegetables",
+      "type": "Fruits and vegetables",
+      "date": "2024-01-03",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 40,
+      "id": 263
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-01-04",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 264
+    },
+    {
+      "description": "groceries",
+      "type": "Groceries Expense",
+      "date": "2024-01-03",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 85,
+      "id": 265
+    },
+    {
+      "description": "shwea socks",
+      "type": "General Expense",
+      "date": "2024-01-03",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 70,
+      "id": 266
+    },
+    {
+      "description": "All out",
+      "type": "Groceries Expense",
+      "date": "2024-01-03",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 80,
+      "id": 267
+    },
+    {
+      "description": "shweta medicine",
+      "type": "ivf neelkanth",
+      "date": "2024-01-04",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 140,
+      "id": 268
+    },
+    {
+      "description": "Neelkanth canteen",
+      "type": "outside food",
+      "date": "2024-01-03",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 70,
+      "id": 269
+    },
+    {
+      "description": "Mirror Fix",
+      "type": "bathroom renovation",
+      "date": "2024-01-04",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 300,
+      "id": 270
+    },
+    {
+      "description": "shweta for home",
+      "type": "General Expense",
+      "date": "2024-01-04",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 500,
+      "id": 271
+    },
+    {
+      "description": "Om sweets dinner",
+      "type": "outside food",
+      "date": "2024-01-07",
+      "account": "icici bank",
+      "mode": "Atm",
+      "amount": 408,
+      "id": 272
+    },
+    {
+      "description": "cash misc",
+      "type": "General Expense",
+      "date": "2024-01-07",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 2232,
+      "id": 273
+    },
+    {
+      "description": "office snacks",
+      "type": "General Expense",
+      "date": "2024-01-05",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 45,
+      "id": 274
+    },
+    {
+      "description": "office lunch",
+      "type": "General Expense",
+      "date": "2024-01-05",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 170,
+      "id": 275
+    },
+    {
+      "description": "vegetables",
+      "type": "Fruits and vegetables",
+      "date": "2024-01-05",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 50,
+      "id": 276
+    },
+    {
+      "description": "cab from office to home",
+      "type": "cab expense",
+      "date": "2024-01-05",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 252,
+      "id": 277
+    },
+    {
+      "description": "Momos with sunil",
+      "type": "outside food",
+      "date": "2024-01-05",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 170,
+      "id": 278
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-01-05",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 279
+    },
+    {
+      "description": "misc",
+      "type": "Groceries Expense",
+      "date": "2024-01-05",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 56,
+      "id": 280
+    },
+    {
+      "description": "Groceries from reliance",
+      "type": "Groceries Expense",
+      "date": "2024-01-07",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 436.9,
+      "id": 281
+    },
+    {
+      "description": "urbanclap cancellation fee",
+      "type": "Extra Expense",
+      "date": "2024-01-07",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 100,
+      "id": 282
+    },
+    {
+      "description": "car service to jumpstart",
+      "type": "essential expense",
+      "date": "2024-01-07",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 350,
+      "id": 283
+    },
+    {
+      "description": "mummy phone recharge",
+      "type": "Monthly expense",
+      "date": "2024-01-07",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 199,
+      "id": 284
+    },
+    {
+      "description": "Groceries from reliance",
+      "type": "Groceries Expense",
+      "date": "2024-01-08",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 140.5,
+      "id": 285
+    },
+    {
+      "description": "hair color",
+      "type": "Groceries Expense",
+      "date": "2024-01-08",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 42,
+      "id": 286
+    },
+    {
+      "description": "hair cutting & saving",
+      "type": "personal expense",
+      "date": "2024-01-08",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 160,
+      "id": 287
+    },
+    {
+      "description": "Mummy Slipper meesho",
+      "type": "Online Shopping",
+      "date": "2024-01-08",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 360,
+      "id": 288
+    },
+    {
+      "description": "groceries patanjali",
+      "type": "Groceries Expense",
+      "date": "2024-01-09",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 375,
+      "id": 289
+    },
+    {
+      "description": "Woolen socks",
+      "type": "personal expense",
+      "date": "2024-01-09",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 100,
+      "id": 290
+    },
+    {
+      "description": "Household things",
+      "type": "Household",
+      "date": "2024-01-09",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 90,
+      "id": 291
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-01-09",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 66,
+      "id": 292
+    },
+    {
+      "description": "blanket dry clean",
+      "type": "Household",
+      "date": "2024-01-09",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 160,
+      "id": 293
+    },
+    {
+      "description": "water bill",
+      "type": "Monthly expense",
+      "date": "2024-01-10",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 6846,
+      "id": 294
+    },
+    {
+      "description": "Electricity bill",
+      "type": "Monthly expense",
+      "date": "2024-01-10",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 1431,
+      "id": 295
+    },
+    {
+      "description": "office lunch",
+      "type": "General Expense",
+      "date": "2024-01-10",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 90,
+      "id": 296
+    },
+    {
+      "description": "harish bakery jalebi patties",
+      "type": "outside food",
+      "date": "2024-01-10",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 142,
+      "id": 297
+    },
+    {
+      "description": "Diesel for swift",
+      "type": "Monthly expense",
+      "date": "2024-01-10",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 1000,
+      "id": 298
+    },
+    {
+      "description": "big basket recharge",
+      "type": "Groceries Expense",
+      "date": "2024-01-10",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 300,
+      "id": 299
+    },
+    {
+      "description": "winter caps purchase",
+      "type": "personal expense",
+      "date": "2024-01-10",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 250,
+      "id": 300
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-01-10",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 66,
+      "id": 301
+    },
+    {
+      "description": "office tea",
+      "type": "General Expense",
+      "date": "2024-01-11",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 60,
+      "id": 302
+    },
+    {
+      "description": "office lunch",
+      "type": "General Expense",
+      "date": "2024-01-11",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 70,
+      "id": 303
+    },
+    {
+      "description": "harish bakery rasmalai",
+      "type": "outside food",
+      "date": "2024-01-11",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 110,
+      "id": 304
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-01-11",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 66,
+      "id": 305
+    },
+    {
+      "description": "shweta for home expense",
+      "type": "General Expense",
+      "date": "2024-01-10",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 500,
+      "id": 306
+    },
+    {
+      "description": "shweta for home expense",
+      "type": "General Expense",
+      "date": "2024-01-11",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 500,
+      "id": 307
+    },
+    {
+      "description": "shweta for home expense",
+      "type": "General Expense",
+      "date": "2024-01-12",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 500,
+      "id": 308
+    },
+    {
+      "description": "Groceries from reliance",
+      "type": "Groceries Expense",
+      "date": "2024-01-12",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 706.4,
+      "id": 309
+    },
+    {
+      "description": "vegetables",
+      "type": "Fruits and vegetables",
+      "date": "2024-01-12",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 145,
+      "id": 310
+    },
+    {
+      "description": "shweta for home expense",
+      "type": "General Expense",
+      "date": "2024-01-13",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 200,
+      "id": 311
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-01-13",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 66,
+      "id": 312
+    },
+    {
+      "description": "gajak patti",
+      "type": "General Expense",
+      "date": "2024-01-13",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 590,
+      "id": 313
+    },
+    {
+      "description": "Gas booking",
+      "type": "Monthly expense",
+      "date": "2024-01-12",
+      "account": "state bank of india",
+      "mode": "Amazon Pay",
+      "amount": 911.51,
+      "id": 314
+    },
+    {
+      "description": "Daily groceries",
+      "type": "Groceries Expense",
+      "date": "2024-01-14",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 202,
+      "id": 315
+    },
+    {
+      "description": "metro card recharge",
+      "type": "General Expense",
+      "date": "2024-01-14",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 400,
+      "id": 316
+    },
+    {
+      "description": "chai at kalkaji",
+      "type": "outside food",
+      "date": "2024-01-14",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 50,
+      "id": 317
+    },
+    {
+      "description": "sagar ratna janpath",
+      "type": "outside food",
+      "date": "2024-01-14",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 714,
+      "id": 318
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-01-15",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 66,
+      "id": 319
+    },
+    {
+      "description": "Car Key Repair",
+      "type": "essential expense",
+      "date": "2024-01-15",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 700,
+      "id": 320
+    },
+    {
+      "description": "Car cleaner",
+      "type": "Monthly expense",
+      "date": "2024-01-15",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 500,
+      "id": 321
+    },
+    {
+      "description": "zomato vns",
+      "type": "varanasi expense",
+      "date": "2024-01-14",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 240.61,
+      "id": 322
+    },
+    {
+      "description": "parking at huda",
+      "type": "General Expense",
+      "date": "2024-01-14",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 110,
+      "id": 323
+    },
+    {
+      "description": "Milk",
+      "type": "Milk",
+      "date": "2024-01-16",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 66,
+      "id": 324
+    },
+    {
+      "description": "Vim Bar",
+      "type": "Groceries Expense",
+      "date": "2024-01-15",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 10,
+      "id": 325
+    },
+    {
+      "description": "Golgappe",
+      "type": "outside food",
+      "date": "2024-01-15",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 50,
+      "id": 326
+    },
+    {
+      "description": "vegetables",
+      "type": "Fruits and vegetables",
+      "date": "2024-01-16",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 60,
+      "id": 327
+    },
+    {
+      "description": "Groceries from reliance",
+      "type": "Groceries Expense",
+      "date": "2024-01-16",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 962.68,
+      "id": 328
+    },
+    {
+      "description": "greentea flipkart",
+      "type": "Online Shopping",
+      "date": "2024-01-16",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 297,
+      "id": 329
+    },
+    {
+      "description": "vegetables",
+      "type": "Fruits and vegetables",
+      "date": "2024-01-17",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 60,
+      "id": 330
+    },
+    {
+      "description": "shweta medicine",
+      "type": "health and medical",
+      "date": "2024-01-17",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 70,
+      "id": 331
+    },
+    {
+      "description": "Milk",
+      "type": "Milk",
+      "date": "2024-01-17",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 66,
+      "id": 332
+    },
+    {
+      "description": "atta and groundnut oil",
+      "type": "Groceries Expense",
+      "date": "2024-01-18",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 435,
+      "id": 333
+    },
+    {
+      "description": "Milk",
+      "type": "Milk",
+      "date": "2024-01-18",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 66,
+      "id": 334
+    },
+    {
+      "description": "Airtel ggn dth",
+      "type": "Monthly expense",
+      "date": "2024-01-18",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 240,
+      "id": 335
+    },
+    {
+      "description": "Bhola for Bathroom Clean",
+      "type": "General Expense",
+      "date": "2024-01-16",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 500,
+      "id": 336
+    },
+    {
+      "description": "shweta for home expense",
+      "type": "Monthly expense",
+      "date": "2024-01-18",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 1200,
+      "id": 337
+    },
+    {
+      "description": "misc",
+      "type": "General Expense",
+      "date": "2024-01-18",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 500,
+      "id": 338
+    },
+    {
+      "description": "vegetables & fruits",
+      "type": "Fruits and vegetables",
+      "date": "2024-01-19",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 150,
+      "id": 339
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-01-19",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 66,
+      "id": 340
+    },
+    {
+      "description": "matchbox",
+      "type": "Groceries Expense",
+      "date": "2024-01-19",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 5,
+      "id": 341
+    },
+    {
+      "description": "bread",
+      "type": "Groceries Expense",
+      "date": "2024-01-20",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 28,
+      "id": 342
+    },
+    {
+      "description": "shweta for home expense",
+      "type": "General Expense",
+      "date": "2024-01-19",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 730,
+      "id": 343
+    },
+    {
+      "description": "chotu misc",
+      "type": "varanasi expense",
+      "date": "2024-01-20",
+      "account": "hdfc bank rathyatra",
+      "mode": "Atm",
+      "amount": 1000,
+      "id": 344
+    },
+    {
+      "description": "shweta medicine",
+      "type": "ivf neelkanth",
+      "date": "2024-01-20",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 218,
+      "id": 345
+    },
+    {
+      "description": "Neelkanth canteen",
+      "type": "outside food",
+      "date": "2024-01-20",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 30,
+      "id": 346
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-01-20",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 66,
+      "id": 347
+    },
+    {
+      "description": "sendha namak",
+      "type": "Groceries Expense",
+      "date": "2024-01-20",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 18,
+      "id": 348
+    },
+    {
+      "description": "shweta medicine gel",
+      "type": "ivf neelkanth",
+      "date": "2024-01-20",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 800,
+      "id": 349
+    },
+    {
+      "description": "om sweets kachaudi",
+      "type": "outside food",
+      "date": "2024-01-21",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 67,
+      "id": 350
+    },
+    {
+      "description": "vns chotu bankey engagement",
+      "type": "varanasi expense",
+      "date": "2024-01-22",
+      "account": "hdfc bank rathyatra",
+      "mode": "Atm",
+      "amount": 2000,
+      "id": 351
+    },
+    {
+      "description": "gajjak patti",
+      "type": "Groceries Expense",
+      "date": "2024-01-21",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 380,
+      "id": 352
+    },
+    {
+      "description": "for bhandara",
+      "type": "General Expense",
+      "date": "2024-01-21",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 501,
+      "id": 353
+    },
+    {
+      "description": "lights for decoration",
+      "type": "General Expense",
+      "date": "2024-01-21",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 400,
+      "id": 354
+    },
+    {
+      "description": "kachaudi",
+      "type": "outside food",
+      "date": "2024-01-21",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 20,
+      "id": 355
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-01-21",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 356
+    },
+    {
+      "description": "om sweets paneer butter",
+      "type": "outside food",
+      "date": "2024-01-22",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 283.5,
+      "id": 357
+    },
+    {
+      "description": "Milk",
+      "type": "Milk",
+      "date": "2024-01-22",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 358
+    },
+    {
+      "description": "parle g",
+      "type": "Groceries Expense",
+      "date": "2024-01-22",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 20,
+      "id": 359
+    },
+    {
+      "description": "bike insurance",
+      "type": "essential expense",
+      "date": "2024-01-23",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 1624,
+      "id": 360
+    },
+    {
+      "description": "shweta medicine",
+      "type": "ivf neelkanth",
+      "date": "2024-01-23",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 70,
+      "id": 361
+    },
+    {
+      "description": "misc cash",
+      "type": "General Expense",
+      "date": "2024-01-23",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 367,
+      "id": 362
+    },
+    {
+      "description": "Milk",
+      "type": "Milk",
+      "date": "2024-01-23",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 363
+    },
+    {
+      "description": "vegetables",
+      "type": "Fruits and vegetables",
+      "date": "2024-01-23",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 50,
+      "id": 364
+    },
+    {
+      "description": "Groceries from reliance",
+      "type": "Groceries Expense",
+      "date": "2024-01-23",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 327.2,
+      "id": 365
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-01-24",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 366
+    },
+    {
+      "description": "office lunch",
+      "type": "General Expense",
+      "date": "2024-01-25",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 90,
+      "id": 367
+    },
+    {
+      "description": "office snacks",
+      "type": "General Expense",
+      "date": "2024-01-25",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 50,
+      "id": 368
+    },
+    {
+      "description": "shweta medicine",
+      "type": "ivf neelkanth",
+      "date": "2024-01-25",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 582,
+      "id": 369
+    },
+    {
+      "description": "vegetables",
+      "type": "Fruits and vegetables",
+      "date": "2024-01-26",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 130,
+      "id": 370
+    },
+    {
+      "description": "Milk",
+      "type": "Milk",
+      "date": "2024-01-26",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 371
+    },
+    {
+      "description": "Groceries from reliance",
+      "type": "Groceries Expense",
+      "date": "2024-01-27",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 240.74,
+      "id": 372
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-01-27",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 373
+    },
+    {
+      "description": "shweta for home expense",
+      "type": "Monthly expense",
+      "date": "2024-01-25",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 1000,
+      "id": 374
+    },
+    {
+      "description": "cloths iron",
+      "type": "General Expense",
+      "date": "2024-01-27",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 55,
+      "id": 375
+    },
+    {
+      "description": "Diesel for swift",
+      "type": "Monthly expense",
+      "date": "2024-01-25",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 1000,
+      "id": 376
+    },
+    {
+      "description": "misc",
+      "type": "General Expense",
+      "date": "2024-01-28",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 400,
+      "id": 377
+    },
+    {
+      "description": "term insurance",
+      "type": "yearly expense",
+      "date": "2024-01-31",
+      "account": "hdfc bank rathyatra",
+      "mode": "Netbanking",
+      "amount": 28337,
+      "id": 378
+    },
+    {
+      "description": "burger from bk",
+      "type": "outside food",
+      "date": "2024-01-28",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 327.4,
+      "id": 379
+    },
+    {
+      "description": "Netflix subscription",
+      "type": "Monthly expense",
+      "date": "2024-01-29",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 199,
+      "id": 380
+    },
+    {
+      "description": "airtel pospaid bill jan24",
+      "type": "Monthly expense",
+      "date": "2024-02-01",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 1181.36,
+      "id": 381
+    },
+    {
+      "description": "news paper bill",
+      "type": "Monthly expense",
+      "date": "2024-02-01",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 160,
+      "id": 382
+    },
+    {
+      "description": "airtel dth vns recharge",
+      "type": "Monthly expense",
+      "date": "2024-01-29",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 290,
+      "id": 383
+    },
+    {
+      "description": "phul for puja",
+      "type": "General Expense",
+      "date": "2024-01-29",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 20,
+      "id": 384
+    },
+    {
+      "description": "shweta medicine",
+      "type": "ivf neelkanth",
+      "date": "2024-01-29",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 680,
+      "id": 385
+    },
+    {
+      "description": "vegetables",
+      "type": "Fruits and vegetables",
+      "date": "2024-01-29",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 50,
+      "id": 386
+    },
+    {
+      "description": "Groceries from reliance",
+      "type": "Groceries Expense",
+      "date": "2024-01-30",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 283.9,
+      "id": 387
+    },
+    {
+      "description": "office snacks",
+      "type": "General Expense",
+      "date": "2024-01-31",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 35,
+      "id": 388
+    },
+    {
+      "description": "om sweets snacks",
+      "type": "outside food",
+      "date": "2024-01-31",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 283.5,
+      "id": 389
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-01-31",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 390
+    },
+    {
+      "description": "Security Gurard jan",
+      "type": "Monthly expense",
+      "date": "2024-01-31",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 500,
+      "id": 391
+    },
+    {
+      "description": "rabri rasmalai",
+      "type": "outside food",
+      "date": "2024-02-01",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 110,
+      "id": 392
+    },
+    {
+      "description": "vegetables",
+      "type": "Fruits and vegetables",
+      "date": "2024-02-01",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 80,
+      "id": 393
+    },
+    {
+      "description": "Groceries from reliance",
+      "type": "Groceries Expense",
+      "date": "2024-02-01",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 683.67,
+      "id": 394
+    },
+    {
+      "description": "Diesel for swift",
+      "type": "Monthly expense",
+      "date": "2024-02-02",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 1000,
+      "id": 395
+    },
+    {
+      "description": "office snacks",
+      "type": "General Expense",
+      "date": "2024-02-02",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 40,
+      "id": 396
+    },
+    {
+      "description": "vegetables",
+      "type": "Fruits and vegetables",
+      "date": "2024-02-02",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 83,
+      "id": 397
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-02-02",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 398
+    },
+    {
+      "description": "patanjali grocereis",
+      "type": "Groceries Expense",
+      "date": "2024-01-31",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 80,
+      "id": 399
+    },
+    {
+      "description": "neelkanth fee cash",
+      "type": "ivf neelkanth",
+      "date": "2024-01-30",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 80000,
+      "id": 400
+    },
+    {
+      "description": "shweta for expense",
+      "type": "General Expense",
+      "date": "2024-02-01",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 2600,
+      "id": 401
+    },
+    {
+      "description": "misc",
+      "type": "General Expense",
+      "date": "2024-02-01",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 240,
+      "id": 402
+    },
+    {
+      "description": "om sweets kachaudi",
+      "type": "outside food",
+      "date": "2024-02-02",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 53.56,
+      "id": 403
+    },
+    {
+      "description": "shweta medicine",
+      "type": "ivf neelkanth",
+      "date": "2024-02-03",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 576,
+      "id": 404
+    },
+    {
+      "description": "varanasi chotu misc",
+      "type": "varanasi expense",
+      "date": "2024-02-03",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 300,
+      "id": 405
+    },
+    {
+      "description": "shweta medicine patanjali",
+      "type": "health and medical",
+      "date": "2024-02-03",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 328,
+      "id": 406
+    },
+    {
+      "description": "Milk",
+      "type": "Milk",
+      "date": "2024-02-03",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 407
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-02-04",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 408
+    },
+    {
+      "description": "parle g",
+      "type": "Groceries Expense",
+      "date": "2024-02-04",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 20,
+      "id": 409
+    },
+    {
+      "description": "paneer",
+      "type": "Groceries Expense",
+      "date": "2024-02-04",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 80,
+      "id": 410
+    },
+    {
+      "description": "shimla mirch",
+      "type": "Fruits and vegetables",
+      "date": "2024-02-04",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 30,
+      "id": 411
+    },
+    {
+      "description": "bankey gift",
+      "type": "Online Shopping",
+      "date": "2024-02-04",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 4169,
+      "id": 412
+    },
+    {
+      "description": "my blazer",
+      "type": "Online Shopping",
+      "date": "2024-02-04",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 3010,
+      "id": 413
+    },
+    {
+      "description": "my overcoat",
+      "type": "Online Shopping",
+      "date": "2024-02-04",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 3975,
+      "id": 414
+    },
+    {
+      "description": "misc cash",
+      "type": "General Expense",
+      "date": "2024-02-05",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 40,
+      "id": 415
+    },
+    {
+      "description": "Milk",
+      "type": "Milk",
+      "date": "2024-02-07",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 66,
+      "id": 416
+    },
+    {
+      "description": "surf excel",
+      "type": "Groceries Expense",
+      "date": "2024-02-07",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 68,
+      "id": 417
+    },
+    {
+      "description": "for min acc bal shweta",
+      "type": "General Expense",
+      "date": "2024-02-05",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 1000,
+      "id": 418
+    },
+    {
+      "description": "om sweets kachaudi",
+      "type": "outside food",
+      "date": "2024-02-05",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 35.7,
+      "id": 419
+    },
+    {
+      "description": "sandwich om sweets",
+      "type": "outside food",
+      "date": "2024-02-05",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 73.5,
+      "id": 420
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-02-05",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 421
+    },
+    {
+      "description": "groceries",
+      "type": "Groceries Expense",
+      "date": "2024-02-05",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 88,
+      "id": 422
+    },
+    {
+      "description": "fruits and vegetables",
+      "type": "Fruits and vegetables",
+      "date": "2024-02-06",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 280,
+      "id": 423
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-02-06",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 424
+    },
+    {
+      "description": "groceries",
+      "type": "Groceries Expense",
+      "date": "2024-02-06",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 210,
+      "id": 425
+    },
+    {
+      "description": "Nisha maid",
+      "type": "Monthly expense",
+      "date": "2024-02-07",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 2000,
+      "id": 426
+    },
+    {
+      "description": "shweta for home expense",
+      "type": "General Expense",
+      "date": "2024-02-07",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 500,
+      "id": 427
+    },
+    {
+      "description": "misc",
+      "type": "General Expense",
+      "date": "2024-02-07",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 10,
+      "id": 428
+    },
+    {
+      "description": "rent feb 24",
+      "type": "Monthly expense",
+      "date": "2024-02-10",
+      "account": "hdfc bank coimbatore",
+      "mode": "Netbanking",
+      "amount": 20660,
+      "id": 429
+    },
+    {
+      "description": "shweta acc transfer",
+      "type": "General Expense",
+      "date": "2024-02-10",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 1500,
+      "id": 430
+    },
+    {
+      "description": "office tea",
+      "type": "General Expense",
+      "date": "2024-02-08",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 30,
+      "id": 431
+    },
+    {
+      "description": "office lunch",
+      "type": "General Expense",
+      "date": "2024-02-08",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 90,
+      "id": 432
+    },
+    {
+      "description": "blue cab for delhi",
+      "type": "cab expense",
+      "date": "2024-02-09",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 266,
+      "id": 433
+    },
+    {
+      "description": "shweta boutique",
+      "type": "General Expense",
+      "date": "2024-02-09",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 500,
+      "id": 434
+    },
+    {
+      "description": "om sweets sandwich",
+      "type": "outside food",
+      "date": "2024-02-09",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 126,
+      "id": 435
+    },
+    {
+      "description": "shweta for home expense",
+      "type": "General Expense",
+      "date": "2024-02-09",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 1000,
+      "id": 436
+    },
+    {
+      "description": "varanasi petrol",
+      "type": "varanasi expense",
+      "date": "2024-02-11",
+      "account": "hdfc bank rathyatra",
+      "mode": "Atm",
+      "amount": 100,
+      "id": 437
+    },
+    {
+      "description": "chotu jacket",
+      "type": "varanasi expense",
+      "date": "2024-02-16",
+      "account": "hdfc bank rathyatra",
+      "mode": "Atm",
+      "amount": 1200,
+      "id": 438
+    },
+    {
+      "description": "chotu petrol",
+      "type": "varanasi expense",
+      "date": "2024-02-17",
+      "account": "hdfc bank rathyatra",
+      "mode": "Atm",
+      "amount": 200,
+      "id": 439
+    },
+    {
+      "description": "varanasi expense",
+      "type": "varanasi expense",
+      "date": "2024-02-18",
+      "account": "hdfc bank rathyatra",
+      "mode": "Atm",
+      "amount": 7000,
+      "id": 440
+    },
+    {
+      "description": "flight ticket varanasi",
+      "type": "flight ticket",
+      "date": "2024-02-19",
+      "account": "hdfc bank coimbatore",
+      "mode": "Netbanking",
+      "amount": 17297,
+      "id": 441
+    },
+    {
+      "description": "atm withdrawl",
+      "type": "General Expense",
+      "date": "2024-02-14",
+      "account": "icici bank",
+      "mode": "Atm",
+      "amount": 5000,
+      "id": 442
+    },
+    {
+      "description": "tejas ticket",
+      "type": "train tickets",
+      "date": "2024-02-15",
+      "account": "icici bank",
+      "mode": "Netbanking",
+      "amount": 4057.9,
+      "id": 443
+    },
+    {
+      "description": "flight ticket mummy",
+      "type": "flight ticket",
+      "date": "2024-02-19",
+      "account": "icici bank",
+      "mode": "Netbanking",
+      "amount": 8778,
+      "id": 444
+    },
+    {
+      "description": "metro card recharge",
+      "type": "travel expense",
+      "date": "2024-02-10",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 200,
+      "id": 445
+    },
+    {
+      "description": "debit card charge",
+      "type": "yearly expense",
+      "date": "2024-02-11",
+      "account": "state bank of india",
+      "mode": "Netbanking",
+      "amount": 147.5,
+      "id": 446
+    },
+    {
+      "description": "water bottle",
+      "type": "General Expense",
+      "date": "2024-02-17",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 20,
+      "id": 447
+    },
+    {
+      "description": "car cleaner jan 24",
+      "type": "Monthly expense",
+      "date": "2024-02-19",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 500,
+      "id": 448
+    },
+    {
+      "description": "metro card recharge",
+      "type": "travel expense",
+      "date": "2024-02-20",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 100,
+      "id": 449
+    },
+    {
+      "description": "train ticket",
+      "type": "train tickets",
+      "date": "2024-02-12",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 2934.3,
+      "id": 450
+    },
+    {
+      "description": "train ticket",
+      "type": "train tickets",
+      "date": "2024-02-12",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 1102.5,
+      "id": 451
+    },
+    {
+      "description": "train ticket",
+      "type": "train tickets",
+      "date": "2024-02-12",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 3614.3,
+      "id": 452
+    },
+    {
+      "description": "dosa vns",
+      "type": "outside food",
+      "date": "2024-02-12",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 180,
+      "id": 453
+    },
+    {
+      "description": "misc varanasi",
+      "type": "General Expense",
+      "date": "2024-02-12",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 140,
+      "id": 454
+    },
+    {
+      "description": "train ticket tejas",
+      "type": "train tickets",
+      "date": "2024-02-15",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 2607.6,
+      "id": 455
+    },
+    {
+      "description": "cab to ndls",
+      "type": "cab expense",
+      "date": "2024-02-15",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 597,
+      "id": 456
+    },
+    {
+      "description": "halidram cannaught place",
+      "type": "outside food",
+      "date": "2024-02-15",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 218.4,
+      "id": 457
+    },
+    {
+      "description": "karnataka resturant gurgaon",
+      "type": "outside food",
+      "date": "2024-02-20",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 630,
+      "id": 458
+    },
+    {
+      "description": "vegetables & fruits",
+      "type": "Fruits and vegetables",
+      "date": "2024-02-20",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 150,
+      "id": 459
+    },
+    {
+      "description": "Milk",
+      "type": "Milk",
+      "date": "2024-02-20",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 460
+    },
+    {
+      "description": "Jeera",
+      "type": "Groceries Expense",
+      "date": "2024-02-20",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 40,
+      "id": 461
+    },
+    {
+      "description": "swiggy genie",
+      "type": "personal expense",
+      "date": "2024-02-20",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 195,
+      "id": 462
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-02-21",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 33,
+      "id": 463
+    },
+    {
+      "description": "diesel for swift",
+      "type": "Monthly expense",
+      "date": "2024-02-21",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 1000,
+      "id": 464
+    },
+    {
+      "description": "Groceries from reliance",
+      "type": "Groceries Expense",
+      "date": "2024-02-21",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 181.3,
+      "id": 465
+    },
+    {
+      "description": "Nisha maid advance",
+      "type": "Monthly expense",
+      "date": "2024-02-21",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 1000,
+      "id": 466
+    },
+    {
+      "description": "Groceries from reliance",
+      "type": "Groceries Expense",
+      "date": "2024-02-22",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 487.4,
+      "id": 467
+    },
+    {
+      "description": "varanasi expense",
+      "type": "varanasi expense",
+      "date": "2024-02-22",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 6286,
+      "id": 468
+    },
+    {
+      "description": "transer to shweta account",
+      "type": "General Expense",
+      "date": "2024-02-28",
+      "account": "hdfc bank coimbatore",
+      "mode": "Netbanking",
+      "amount": 10000,
+      "id": 469
+    },
+    {
+      "description": "airtel vns dth",
+      "type": "Monthly expense",
+      "date": "2024-02-21",
+      "account": "state bank of india",
+      "mode": "Amazon Pay",
+      "amount": 181,
+      "id": 470
+    },
+    {
+      "description": "Netflix subscription",
+      "type": "Monthly expense",
+      "date": "2024-02-29",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 199,
+      "id": 471
+    },
+    {
+      "description": "misc",
+      "type": "General Expense",
+      "date": "2024-02-24",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 49,
+      "id": 472
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-02-22",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 473
+    },
+    {
+      "description": "banana",
+      "type": "Fruits and vegetables",
+      "date": "2024-02-23",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 30,
+      "id": 474
+    },
+    {
+      "description": "shweta medicine",
+      "type": "ivf neelkanth",
+      "date": "2024-02-23",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 625,
+      "id": 475
+    },
+    {
+      "description": "fruits & vegetables",
+      "type": "Fruits and vegetables",
+      "date": "2024-02-23",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 225,
+      "id": 476
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-02-23",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 477
+    },
+    {
+      "description": "groceries",
+      "type": "Groceries Expense",
+      "date": "2024-02-23",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 35,
+      "id": 478
+    },
+    {
+      "description": "tyres for car",
+      "type": "essential expense",
+      "date": "2024-02-24",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 8000,
+      "id": 479
+    },
+    {
+      "description": "car tyre puncture",
+      "type": "essential expense",
+      "date": "2024-02-24",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 350,
+      "id": 480
+    },
+    {
+      "description": "Groceries from reliance",
+      "type": "Groceries Expense",
+      "date": "2024-02-24",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 615.24,
+      "id": 481
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-02-25",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 482
+    },
+    {
+      "description": "groceris",
+      "type": "Groceries Expense",
+      "date": "2024-02-25",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 38,
+      "id": 483
+    },
+    {
+      "description": "chotu chacha",
+      "type": "essential expense",
+      "date": "2024-02-25",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 3000,
+      "id": 484
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-02-25",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 485
+    },
+    {
+      "description": "vegetables",
+      "type": "Fruits and vegetables",
+      "date": "2024-02-26",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 110,
+      "id": 486
+    },
+    {
+      "description": "shweta medicine",
+      "type": "ivf neelkanth",
+      "date": "2024-02-26",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 750,
+      "id": 487
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-02-26",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 488
+    },
+    {
+      "description": "vegetables",
+      "type": "Fruits and vegetables",
+      "date": "2024-02-27",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 154,
+      "id": 489
+    },
+    {
+      "description": "om sweets",
+      "type": "outside food",
+      "date": "2024-02-27",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 92.4,
+      "id": 490
+    },
+    {
+      "description": "office lunch",
+      "type": "General Expense",
+      "date": "2024-02-28",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 60,
+      "id": 491
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-02-28",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 492
+    },
+    {
+      "description": "office lunch",
+      "type": "General Expense",
+      "date": "2024-02-29",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 60,
+      "id": 493
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-02-29",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 494
+    },
+    {
+      "description": "all cash exp",
+      "type": "General Expense",
+      "date": "2024-02-29",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 2270,
+      "id": 495
+    },
+    {
+      "description": "ivf remaining",
+      "type": "ivf neelkanth",
+      "date": "2024-03-02",
+      "account": "hdfc bank coimbatore",
+      "mode": "Atm",
+      "amount": 135000,
+      "id": 496
+    },
+    {
+      "description": "shweta medicine & injection",
+      "type": "ivf neelkanth",
+      "date": "2024-03-02",
+      "account": "icici bank",
+      "mode": "Atm",
+      "amount": 10549,
+      "id": 497
+    },
+    {
+      "description": "shweta injection",
+      "type": "ivf neelkanth",
+      "date": "2024-03-02",
+      "account": "icici bank",
+      "mode": "Atm",
+      "amount": 3150,
+      "id": 498
+    },
+    {
+      "description": "airtel pospaid bill feb24",
+      "type": "Monthly expense",
+      "date": "2024-03-01",
+      "account": "state bank of india",
+      "mode": "Amazon Pay",
+      "amount": 1181.66,
+      "id": 499
+    },
+    {
+      "description": "office lunch",
+      "type": "General Expense",
+      "date": "2024-03-01",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 60,
+      "id": 500
+    },
+    {
+      "description": "grilled sandwich harish",
+      "type": "outside food",
+      "date": "2024-03-01",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 130,
+      "id": 501
+    },
+    {
+      "description": "Neelkanth canteen",
+      "type": "General Expense",
+      "date": "2024-03-02",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 35,
+      "id": 502
+    },
+    {
+      "description": "neelkanth lunch",
+      "type": "General Expense",
+      "date": "2024-03-02",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 120,
+      "id": 503
+    },
+    {
+      "description": "shweta for home expense first",
+      "type": "Monthly expense",
+      "date": "2024-03-01",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 500,
+      "id": 504
+    },
+    {
+      "description": "groundnut oil",
+      "type": "Groceries Expense",
+      "date": "2024-03-03",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 225,
+      "id": 505
+    },
+    {
+      "description": "biscuit",
+      "type": "Groceries Expense",
+      "date": "2024-03-03",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 20,
+      "id": 506
+    },
+    {
+      "description": "Groceries from reliance",
+      "type": "Groceries Expense",
+      "date": "2024-03-03",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 210,
+      "id": 507
+    },
+    {
+      "description": "vegetables",
+      "type": "Fruits and vegetables",
+      "date": "2024-03-03",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 40,
+      "id": 508
+    },
+    {
+      "description": "rent mar 24",
+      "type": "Monthly expense",
+      "date": "2024-03-04",
+      "account": "icici bank",
+      "mode": "Netbanking",
+      "amount": 18000,
+      "id": 509
+    },
+    {
+      "description": "car challan",
+      "type": "Extra Expense",
+      "date": "2024-03-04",
+      "account": "state bank of india",
+      "mode": "Netbanking",
+      "amount": 500,
+      "id": 510
+    },
+    {
+      "description": "banana",
+      "type": "Fruits and vegetables",
+      "date": "2024-03-03",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 30,
+      "id": 511
+    },
+    {
+      "description": "tomato",
+      "type": "Fruits and vegetables",
+      "date": "2024-03-04",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 25,
+      "id": 512
+    },
+    {
+      "description": "shweta injection",
+      "type": "ivf neelkanth",
+      "date": "2024-03-04",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 50,
+      "id": 513
+    },
+    {
+      "description": "groceris",
+      "type": "Groceries Expense",
+      "date": "2024-03-05",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 71,
+      "id": 514
+    },
+    {
+      "description": "ganne ka ras",
+      "type": "health and medical",
+      "date": "2024-03-05",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 50,
+      "id": 515
+    },
+    {
+      "description": "Nisha maid",
+      "type": "Monthly expense",
+      "date": "2024-03-04",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 1000,
+      "id": 516
+    },
+    {
+      "description": "misc",
+      "type": "General Expense",
+      "date": "2024-03-05",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 34,
+      "id": 517
+    },
+    {
+      "description": "avyaan gift",
+      "type": "Online Shopping",
+      "date": "2024-03-05",
+      "account": "state bank of india",
+      "mode": "Amazon Pay",
+      "amount": 2488,
+      "id": 518
+    },
+    {
+      "description": "fruits and veg",
+      "type": "Fruits and vegetables",
+      "date": "2024-03-05",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 348,
+      "id": 519
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-03-05",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 520
+    },
+    {
+      "description": "shweta for home expense",
+      "type": "Monthly expense",
+      "date": "2024-03-06",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 500,
+      "id": 521
+    },
+    {
+      "description": "diesel for car",
+      "type": "Monthly expense",
+      "date": "2024-03-06",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 1000,
+      "id": 522
+    },
+    {
+      "description": "lunch in office",
+      "type": "General Expense",
+      "date": "2024-03-06",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 90,
+      "id": 523
+    },
+    {
+      "description": "snacks in office",
+      "type": "General Expense",
+      "date": "2024-03-06",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 25,
+      "id": 524
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-03-06",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 525
+    },
+    {
+      "description": "tea in office",
+      "type": "General Expense",
+      "date": "2024-03-06",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 30,
+      "id": 526
+    },
+    {
+      "description": "news paper bill feb24",
+      "type": "Monthly expense",
+      "date": "2024-03-07",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 160,
+      "id": 527
+    },
+    {
+      "description": "tea in office",
+      "type": "General Expense",
+      "date": "2024-03-07",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 15,
+      "id": 528
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-03-07",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 529
+    },
+    {
+      "description": "shweta for home expense",
+      "type": "Monthly expense",
+      "date": "2024-03-07",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 500,
+      "id": 530
+    },
+    {
+      "description": "tulsi ji for temple",
+      "type": "General Expense",
+      "date": "2024-03-07",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 30,
+      "id": 531
+    },
+    {
+      "description": "vegetables",
+      "type": "Fruits and vegetables",
+      "date": "2024-03-10",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 50,
+      "id": 532
+    },
+    {
+      "description": "nurse for injection",
+      "type": "ivf neelkanth",
+      "date": "2024-03-10",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 200,
+      "id": 533
+    },
+    {
+      "description": "harish bakery",
+      "type": "outside food",
+      "date": "2024-03-08",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 210,
+      "id": 534
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-03-08",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 535
+    },
+    {
+      "description": "nurse for injection",
+      "type": "ivf neelkanth",
+      "date": "2024-03-09",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 50,
+      "id": 536
+    },
+    {
+      "description": "sugarcane juice",
+      "type": "General Expense",
+      "date": "2024-03-09",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 40,
+      "id": 537
+    },
+    {
+      "description": "Groceries from reliance",
+      "type": "Groceries Expense",
+      "date": "2024-03-09",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 1092.14,
+      "id": 538
+    },
+    {
+      "description": "Groceries from reliance",
+      "type": "Groceries Expense",
+      "date": "2024-03-10",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 234.54,
+      "id": 539
+    },
+    {
+      "description": "banana",
+      "type": "Fruits and vegetables",
+      "date": "2024-03-10",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 35,
+      "id": 540
+    },
+    {
+      "description": "vns dth recharge",
+      "type": "Monthly expense",
+      "date": "2024-03-12",
+      "account": "state bank of india",
+      "mode": "Amazon Pay",
+      "amount": 300,
+      "id": 541
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-03-10",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 542
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-03-11",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 66,
+      "id": 543
+    },
+    {
+      "description": "besan and murmura",
+      "type": "Groceries Expense",
+      "date": "2024-03-11",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 55,
+      "id": 544
+    },
+    {
+      "description": "misc cash",
+      "type": "General Expense",
+      "date": "2024-03-11",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 39,
+      "id": 545
+    },
+    {
+      "description": "aws registration",
+      "type": "personal expense",
+      "date": "2024-03-12",
+      "account": "icici bank",
+      "mode": "Netbanking",
+      "amount": 2,
+      "id": 546
+    },
+    {
+      "description": "puja diya",
+      "type": "General Expense",
+      "date": "2024-03-13",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 40,
+      "id": 547
+    },
+    {
+      "description": "shweta for home expense",
+      "type": "Monthly expense",
+      "date": "2024-03-13",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 500,
+      "id": 548
+    },
+    {
+      "description": "vegetables & fruits",
+      "type": "Fruits and vegetables",
+      "date": "2024-03-12",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 450,
+      "id": 549
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-03-12",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 550
+    },
+    {
+      "description": "office lunch & snacks",
+      "type": "General Expense",
+      "date": "2024-03-13",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 135,
+      "id": 551
+    },
+    {
+      "description": "groceries from patanjali",
+      "type": "Groceries Expense",
+      "date": "2024-03-13",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 150,
+      "id": 552
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-03-13",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 553
+    },
+    {
+      "description": "Electricity bill ggn mar24",
+      "type": "Monthly expense",
+      "date": "2024-03-14",
+      "account": "state bank of india",
+      "mode": "Amazon Pay",
+      "amount": 1630,
+      "id": 554
+    },
+    {
+      "description": "water bill mar24",
+      "type": "Monthly expense",
+      "date": "2024-03-14",
+      "account": "state bank of india",
+      "mode": "Amazon Pay",
+      "amount": 985,
+      "id": 555
+    },
+    {
+      "description": "shweta for home expense",
+      "type": "Monthly expense",
+      "date": "2024-03-15",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 700,
+      "id": 556
+    },
+    {
+      "description": "office lunch",
+      "type": "General Expense",
+      "date": "2024-03-14",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 90,
+      "id": 557
+    },
+    {
+      "description": "om sweets rabdi rasmalai",
+      "type": "outside food",
+      "date": "2024-03-14",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 109.94,
+      "id": 558
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-03-14",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 559
+    },
+    {
+      "description": "office lunch",
+      "type": "General Expense",
+      "date": "2024-03-15",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 90,
+      "id": 560
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-03-15",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 561
+    },
+    {
+      "description": "car cleaner feb24",
+      "type": "Monthly expense",
+      "date": "2024-03-16",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 500,
+      "id": 562
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-03-16",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 563
+    },
+    {
+      "description": "parle g",
+      "type": "Groceries Expense",
+      "date": "2024-03-16",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 20,
+      "id": 564
+    },
+    {
+      "description": "tomato",
+      "type": "Fruits and vegetables",
+      "date": "2024-03-16",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 25,
+      "id": 565
+    },
+    {
+      "description": "hair color",
+      "type": "personal expense",
+      "date": "2024-03-17",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 37,
+      "id": 566
+    },
+    {
+      "description": "hair cutting",
+      "type": "personal expense",
+      "date": "2024-03-17",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 250,
+      "id": 567
+    },
+    {
+      "description": "varanasi petrol",
+      "type": "varanasi expense",
+      "date": "2024-03-23",
+      "account": "hdfc bank rathyatra",
+      "mode": "Atm",
+      "amount": 100,
+      "id": 568
+    },
+    {
+      "description": "atm withdrawl",
+      "type": "varanasi expense",
+      "date": "2024-03-23",
+      "account": "hdfc bank rathyatra",
+      "mode": "Atm",
+      "amount": 500,
+      "id": 569
+    },
+    {
+      "description": "atm withdrawl holi",
+      "type": "varanasi expense",
+      "date": "2024-03-24",
+      "account": "hdfc bank rathyatra",
+      "mode": "Atm",
+      "amount": 1000,
+      "id": 570
+    },
+    {
+      "description": "dth recharg ggn",
+      "type": "Monthly expense",
+      "date": "2024-03-19",
+      "account": "state bank of india",
+      "mode": "Amazon Pay",
+      "amount": 268,
+      "id": 571
+    },
+    {
+      "description": "diesel for car",
+      "type": "Monthly expense",
+      "date": "2024-03-20",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 1000,
+      "id": 572
+    },
+    {
+      "description": "shweta bhcg test",
+      "type": "ivf neelkanth",
+      "date": "2024-03-21",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 660,
+      "id": 573
+    },
+    {
+      "description": "shweta medicine",
+      "type": "ivf neelkanth",
+      "date": "2024-03-21",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 2270,
+      "id": 574
+    },
+    {
+      "description": "dth recharg ggn",
+      "type": "Monthly expense",
+      "date": "2024-03-21",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 240,
+      "id": 575
+    },
+    {
+      "description": "ro servicing",
+      "type": "essential expense",
+      "date": "2024-03-21",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 1250,
+      "id": 576
+    },
+    {
+      "description": "office snacks",
+      "type": "General Expense",
+      "date": "2024-03-22",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 30,
+      "id": 577
+    },
+    {
+      "description": "rasagulla harish bakery",
+      "type": "outside food",
+      "date": "2024-03-22",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 64,
+      "id": 578
+    },
+    {
+      "description": "Neelkanth canteen",
+      "type": "General Expense",
+      "date": "2024-03-23",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 40,
+      "id": 579
+    },
+    {
+      "description": "shweta medicine",
+      "type": "ivf neelkanth",
+      "date": "2024-03-23",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 8336,
+      "id": 580
+    },
+    {
+      "description": "Neelkanth canteen",
+      "type": "General Expense",
+      "date": "2024-03-23",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 60,
+      "id": 581
+    },
+    {
+      "description": "holi color",
+      "type": "General Expense",
+      "date": "2024-03-24",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 50,
+      "id": 582
+    },
+    {
+      "description": "Gas booking",
+      "type": "essential expense",
+      "date": "2024-03-26",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 812,
+      "id": 583
+    },
+    {
+      "description": "om sweets sandwich",
+      "type": "outside food",
+      "date": "2024-03-17",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 126,
+      "id": 584
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-03-17",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 585
+    },
+    {
+      "description": "shweta medicine",
+      "type": "ivf neelkanth",
+      "date": "2024-03-18",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 660,
+      "id": 586
+    },
+    {
+      "description": "shweta ear top",
+      "type": "Extra Expense",
+      "date": "2024-03-18",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 22199.34,
+      "id": 587
+    },
+    {
+      "description": "halidram mgf",
+      "type": "outside food",
+      "date": "2024-03-18",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 483,
+      "id": 588
+    },
+    {
+      "description": "rasgulla om sweets",
+      "type": "outside food",
+      "date": "2024-03-18",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 68,
+      "id": 589
+    },
+    {
+      "description": "groceries from reliance",
+      "type": "Groceries Expense",
+      "date": "2024-03-18",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 699.18,
+      "id": 590
+    },
+    {
+      "description": "shweta medicine",
+      "type": "ivf neelkanth",
+      "date": "2024-03-19",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 470,
+      "id": 591
+    },
+    {
+      "description": "Neelkanth canteen",
+      "type": "General Expense",
+      "date": "2024-03-19",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 60,
+      "id": 592
+    },
+    {
+      "description": "vegetables",
+      "type": "Fruits and vegetables",
+      "date": "2024-03-19",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 251,
+      "id": 593
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-03-19",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 594
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-03-20",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 595
+    },
+    {
+      "description": "banana",
+      "type": "Fruits and vegetables",
+      "date": "2024-03-21",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 60,
+      "id": 596
+    },
+    {
+      "description": "Neelkanth canteen",
+      "type": "General Expense",
+      "date": "2024-03-21",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 15,
+      "id": 597
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-03-21",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 598
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-03-22",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 599
+    },
+    {
+      "description": "groceries",
+      "type": "Groceries Expense",
+      "date": "2024-03-22",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 70,
+      "id": 600
+    },
+    {
+      "description": "groceries",
+      "type": "Groceries Expense",
+      "date": "2024-03-23",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 50,
+      "id": 601
+    },
+    {
+      "description": "Groceries from reliance",
+      "type": "Groceries Expense",
+      "date": "2024-03-23",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 1252.88,
+      "id": 602
+    },
+    {
+      "description": "groceries from patanjali",
+      "type": "Groceries Expense",
+      "date": "2024-03-23",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 220,
+      "id": 603
+    },
+    {
+      "description": "shweta injection",
+      "type": "ivf neelkanth",
+      "date": "2024-03-24",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 50,
+      "id": 604
+    },
+    {
+      "description": "holi shopping",
+      "type": "Extra Expense",
+      "date": "2024-03-24",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 4292,
+      "id": 605
+    },
+    {
+      "description": "groceries",
+      "type": "Groceries Expense",
+      "date": "2024-03-24",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 170,
+      "id": 606
+    },
+    {
+      "description": "groceris",
+      "type": "Groceries Expense",
+      "date": "2024-03-24",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 70,
+      "id": 607
+    },
+    {
+      "description": "groceries",
+      "type": "Groceries Expense",
+      "date": "2024-03-24",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 120,
+      "id": 608
+    },
+    {
+      "description": "groceries",
+      "type": "Groceries Expense",
+      "date": "2024-03-24",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 130,
+      "id": 609
+    },
+    {
+      "description": "holi sweets",
+      "type": "General Expense",
+      "date": "2024-03-24",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 580,
+      "id": 610
+    },
+    {
+      "description": "shweta injection",
+      "type": "ivf neelkanth",
+      "date": "2024-03-25",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 50,
+      "id": 611
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-03-25",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 612
+    },
+    {
+      "description": "misc cash expense",
+      "type": "General Expense",
+      "date": "2024-03-26",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 2640,
+      "id": 613
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-03-26",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 614
+    },
+    {
+      "description": "fruits & vegetables",
+      "type": "Fruits and vegetables",
+      "date": "2024-03-26",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 220,
+      "id": 615
+    },
+    {
+      "description": "sofa cover from amazon",
+      "type": "Online Shopping",
+      "date": "2024-03-26",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 1731,
+      "id": 616
+    },
+    {
+      "description": "country delight",
+      "type": "General Expense",
+      "date": "2024-03-27",
+      "account": "state bank of india",
+      "mode": "Netbanking",
+      "amount": 250,
+      "id": 617
+    },
+    {
+      "description": "varanasi chotu misc",
+      "type": "varanasi expense",
+      "date": "2024-03-28",
+      "account": "hdfc bank rathyatra",
+      "mode": "Atm",
+      "amount": 500,
+      "id": 618
+    },
+    {
+      "description": "groceries",
+      "type": "Groceries Expense",
+      "date": "2024-03-27",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 158,
+      "id": 619
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-03-27",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 620
+    },
+    {
+      "description": "shweta injection",
+      "type": "ivf neelkanth",
+      "date": "2024-03-28",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 50,
+      "id": 621
+    },
+    {
+      "description": "wallet and shweta cloths",
+      "type": "Online Shopping",
+      "date": "2024-03-28",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 813.9,
+      "id": 622
+    },
+    {
+      "description": "sugarcane juice",
+      "type": "health and medical",
+      "date": "2024-03-28",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 60,
+      "id": 623
+    },
+    {
+      "description": "shweta injection",
+      "type": "ivf neelkanth",
+      "date": "2024-03-28",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 200,
+      "id": 624
+    },
+    {
+      "description": "neelkanth opd fee",
+      "type": "ivf neelkanth",
+      "date": "2024-03-29",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 700,
+      "id": 625
+    },
+    {
+      "description": "shweta medicine and injection",
+      "type": "ivf neelkanth",
+      "date": "2024-03-29",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 3716,
+      "id": 626
+    },
+    {
+      "description": "country delight",
+      "type": "Monthly expense",
+      "date": "2024-03-29",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 250,
+      "id": 627
+    },
+    {
+      "description": "patanjali grocereis",
+      "type": "Groceries Expense",
+      "date": "2024-03-29",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 450,
+      "id": 628
+    },
+    {
+      "description": "fruits & vegetables",
+      "type": "Fruits and vegetables",
+      "date": "2024-03-29",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 400,
+      "id": 629
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-03-29",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 630
+    },
+    {
+      "description": "Toni",
+      "type": "to lend",
+      "date": "2024-04-01",
+      "account": "hdfc bank rathyatra",
+      "mode": "Netbanking",
+      "amount": 25000,
+      "id": 631
+    },
+    {
+      "description": "rent april 24",
+      "type": "Monthly expense",
+      "date": "2024-04-02",
+      "account": "icici bank",
+      "mode": "Netbanking",
+      "amount": 18000,
+      "id": 632
+    },
+    {
+      "description": "netflix",
+      "type": "Monthly expense",
+      "date": "2024-03-31",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 199,
+      "id": 633
+    },
+    {
+      "description": "shweta mob recharge",
+      "type": "Monthly expense",
+      "date": "2024-04-01",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 779,
+      "id": 634
+    },
+    {
+      "description": "shweta medicine and injection",
+      "type": "ivf neelkanth",
+      "date": "2024-03-31",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 793,
+      "id": 635
+    },
+    {
+      "description": "shweta medicine and injection",
+      "type": "ivf neelkanth",
+      "date": "2024-03-30",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 205,
+      "id": 636
+    },
+    {
+      "description": "Neelkanth canteen",
+      "type": "General Expense",
+      "date": "2024-03-30",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 110,
+      "id": 637
+    },
+    {
+      "description": "airtel postpaid bill mar24",
+      "type": "Monthly expense",
+      "date": "2024-04-01",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 1178.82,
+      "id": 638
+    },
+    {
+      "description": "shweta injection",
+      "type": "ivf neelkanth",
+      "date": "2024-03-30",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 50,
+      "id": 639
+    },
+    {
+      "description": "chai at neelkanth",
+      "type": "General Expense",
+      "date": "2024-03-30",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 30,
+      "id": 640
+    },
+    {
+      "description": "misc",
+      "type": "General Expense",
+      "date": "2024-03-30",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 143,
+      "id": 641
+    },
+    {
+      "description": "dinner neelkanth",
+      "type": "General Expense",
+      "date": "2024-03-30",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 140,
+      "id": 642
+    },
+    {
+      "description": "diesel for car",
+      "type": "Monthly expense",
+      "date": "2024-03-31",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 1000,
+      "id": 643
+    },
+    {
+      "description": "lunch neelkanth",
+      "type": "General Expense",
+      "date": "2024-03-31",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 120,
+      "id": 644
+    },
+    {
+      "description": "chai",
+      "type": "General Expense",
+      "date": "2024-03-31",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 15,
+      "id": 645
+    },
+    {
+      "description": "dinner at neelkanth",
+      "type": "General Expense",
+      "date": "2024-03-31",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 70,
+      "id": 646
+    },
+    {
+      "description": "sandwich from om sweets",
+      "type": "outside food",
+      "date": "2024-04-01",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 147,
+      "id": 647
+    },
+    {
+      "description": "khasta kachaudi",
+      "type": "outside food",
+      "date": "2024-04-02",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 45,
+      "id": 648
+    },
+    {
+      "description": "misc cash",
+      "type": "General Expense",
+      "date": "2024-03-31",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 110,
+      "id": 649
+    },
+    {
+      "description": "airtel broadband",
+      "type": "yearly expense",
+      "date": "2024-04-03",
+      "account": "state bank of india",
+      "mode": "Amazon Pay",
+      "amount": 3532.92,
+      "id": 650
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-04-04",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 66,
+      "id": 651
+    },
+    {
+      "description": "bread",
+      "type": "Groceries Expense",
+      "date": "2024-04-04",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 28,
+      "id": 652
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-04-02",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 653
+    },
+    {
+      "description": "office lunch",
+      "type": "General Expense",
+      "date": "2024-04-03",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 60,
+      "id": 654
+    },
+    {
+      "description": "news paper bill mar24",
+      "type": "Monthly expense",
+      "date": "2024-04-03",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 160,
+      "id": 655
+    },
+    {
+      "description": "lenskart subscription",
+      "type": "Extra Expense",
+      "date": "2024-04-03",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 49,
+      "id": 656
+    },
+    {
+      "description": "shweta spectacles",
+      "type": "essential expense",
+      "date": "2024-04-03",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 2000,
+      "id": 657
+    },
+    {
+      "description": "banana",
+      "type": "Fruits and vegetables",
+      "date": "2024-04-03",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 35,
+      "id": 658
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-04-03",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 659
+    },
+    {
+      "description": "pitambari",
+      "type": "Groceries Expense",
+      "date": "2024-04-03",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 45,
+      "id": 660
+    },
+    {
+      "description": "patanjali daliya",
+      "type": "Groceries Expense",
+      "date": "2024-04-04",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 90,
+      "id": 661
+    },
+    {
+      "description": "Groceries from reliance",
+      "type": "Groceries Expense",
+      "date": "2024-04-05",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 182,
+      "id": 662
+    },
+    {
+      "description": "fruits & vegetables",
+      "type": "Fruits and vegetables",
+      "date": "2024-04-05",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 280,
+      "id": 663
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-04-05",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 664
+    },
+    {
+      "description": "shweta medicine",
+      "type": "ivf neelkanth",
+      "date": "2024-04-06",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 823,
+      "id": 665
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-04-06",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 666
+    },
+    {
+      "description": "shweta for home expense",
+      "type": "Monthly expense",
+      "date": "2024-04-05",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 1500,
+      "id": 667
+    },
+    {
+      "description": "misc cash",
+      "type": "General Expense",
+      "date": "2024-04-06",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 20,
+      "id": 668
+    },
+    {
+      "description": "nisha maid mar24",
+      "type": "Monthly expense",
+      "date": "2024-04-07",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 2000,
+      "id": 669
+    },
+    {
+      "description": "cloths ironing",
+      "type": "personal expense",
+      "date": "2024-04-07",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 50,
+      "id": 670
+    },
+    {
+      "description": "asics shoes",
+      "type": "Online Shopping",
+      "date": "2024-04-06",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 1470,
+      "id": 671
+    },
+    {
+      "description": "om sweets kachaudi",
+      "type": "outside food",
+      "date": "2024-04-07",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 56.7,
+      "id": 672
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-04-07",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 673
+    },
+    {
+      "description": "matchbox",
+      "type": "Groceries Expense",
+      "date": "2024-04-07",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 5,
+      "id": 674
+    },
+    {
+      "description": "transfer to shweta account",
+      "type": "Monthly expense",
+      "date": "2024-04-10",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 5000,
+      "id": 675
+    },
+    {
+      "description": "groceries expense",
+      "type": "Groceries Expense",
+      "date": "2024-04-09",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 175,
+      "id": 676
+    },
+    {
+      "description": "banana",
+      "type": "Fruits and vegetables",
+      "date": "2024-04-09",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 60,
+      "id": 677
+    },
+    {
+      "description": "pedestal fan flipkart",
+      "type": "Online Shopping",
+      "date": "2024-04-09",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 2799,
+      "id": 678
+    },
+    {
+      "description": "misc vegetables",
+      "type": "Fruits and vegetables",
+      "date": "2024-04-09",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 30,
+      "id": 679
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-04-09",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 66,
+      "id": 680
+    },
+    {
+      "description": "dth recharge vns",
+      "type": "Monthly expense",
+      "date": "2024-04-10",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 300,
+      "id": 681
+    },
+    {
+      "description": "shweta medicine",
+      "type": "ivf neelkanth",
+      "date": "2024-04-10",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 1752,
+      "id": 682
+    },
+    {
+      "description": "vegetables",
+      "type": "Fruits and vegetables",
+      "date": "2024-04-10",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 90,
+      "id": 683
+    },
+    {
+      "description": "Groceries from reliance",
+      "type": "Groceries Expense",
+      "date": "2024-04-10",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 1162.42,
+      "id": 684
+    },
+    {
+      "description": "office lunch",
+      "type": "General Expense",
+      "date": "2024-04-11",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 60,
+      "id": 685
+    },
+    {
+      "description": "Diesel for swift",
+      "type": "Monthly expense",
+      "date": "2024-04-11",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 1000,
+      "id": 686
+    },
+    {
+      "description": "om sweets dosa",
+      "type": "outside food",
+      "date": "2024-04-08",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 404.26,
+      "id": 687
+    },
+    {
+      "description": "groceris",
+      "type": "Groceries Expense",
+      "date": "2024-04-10",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 1162.42,
+      "id": 688
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-04-11",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 689
+    },
+    {
+      "description": "office lunch",
+      "type": "General Expense",
+      "date": "2024-04-12",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 50,
+      "id": 690
+    },
+    {
+      "description": "misc cash",
+      "type": "General Expense",
+      "date": "2024-04-13",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 1780,
+      "id": 691
+    },
+    {
+      "description": "chotu petrol vns",
+      "type": "varanasi expense",
+      "date": "2024-04-19",
+      "account": "hdfc bank rathyatra",
+      "mode": "Atm",
+      "amount": 400,
+      "id": 692
+    },
+    {
+      "description": "car cleaner mar24",
+      "type": "Monthly expense",
+      "date": "2024-04-16",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 500,
+      "id": 693
+    },
+    {
+      "description": "dth recharge vns",
+      "type": "Monthly expense",
+      "date": "2024-04-16",
+      "account": "state bank of india",
+      "mode": "Amazon Pay",
+      "amount": 329,
+      "id": 694
+    },
+    {
+      "description": "shweta for home expense",
+      "type": "Monthly expense",
+      "date": "2024-04-19",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 500,
+      "id": 695
+    },
+    {
+      "description": "dth recharge ggn",
+      "type": "Monthly expense",
+      "date": "2024-04-19",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 240,
+      "id": 696
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-04-13",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 697
+    },
+    {
+      "description": "groceries",
+      "type": "Groceries Expense",
+      "date": "2024-04-14",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 90,
+      "id": 698
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-04-14",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 699
+    },
+    {
+      "description": "shirt dry clean",
+      "type": "personal expense",
+      "date": "2024-04-15",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 70,
+      "id": 700
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-04-15",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 701
+    },
+    {
+      "description": "fruits & vegetables",
+      "type": "Fruits and vegetables",
+      "date": "2024-04-16",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 425,
+      "id": 702
+    },
+    {
+      "description": "office lunch",
+      "type": "General Expense",
+      "date": "2024-04-17",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 60,
+      "id": 703
+    },
+    {
+      "description": "office tea",
+      "type": "General Expense",
+      "date": "2024-04-17",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 25,
+      "id": 704
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-04-17",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 705
+    },
+    {
+      "description": "om sweets kachaudi",
+      "type": "outside food",
+      "date": "2024-04-17",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 35.7,
+      "id": 706
+    },
+    {
+      "description": "Groceries from reliance",
+      "type": "Groceries Expense",
+      "date": "2024-04-18",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 499.4,
+      "id": 707
+    },
+    {
+      "description": "office lunch",
+      "type": "General Expense",
+      "date": "2024-04-19",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 90,
+      "id": 708
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-04-19",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 709
+    },
+    {
+      "description": "chach",
+      "type": "Milk",
+      "date": "2024-04-19",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 15,
+      "id": 710
+    },
+    {
+      "description": "dhokla om sweets",
+      "type": "outside food",
+      "date": "2024-04-20",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 67.86,
+      "id": 711
+    },
+    {
+      "description": "shweta for home expense",
+      "type": "Monthly expense",
+      "date": "2024-04-18",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 1000,
+      "id": 712
+    },
+    {
+      "description": "cooler repair",
+      "type": "essential expense",
+      "date": "2024-04-19",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 600,
+      "id": 713
+    },
+    {
+      "description": "misc cash",
+      "type": "General Expense",
+      "date": "2024-04-19",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 240,
+      "id": 714
+    },
+    {
+      "description": "dominos pizza",
+      "type": "outside food",
+      "date": "2024-04-20",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 610,
+      "id": 715
+    },
+    {
+      "description": "singlebed",
+      "type": "Household",
+      "date": "2024-04-20",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 5000,
+      "id": 716
+    },
+    {
+      "description": "singlebed labour charge",
+      "type": "Household",
+      "date": "2024-04-20",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 500,
+      "id": 717
+    },
+    {
+      "description": "cloth iron",
+      "type": "personal expense",
+      "date": "2024-04-20",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 60,
+      "id": 718
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-04-20",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 719
+    },
+    {
+      "description": "buttermilk",
+      "type": "Milk",
+      "date": "2024-04-20",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 15,
+      "id": 720
+    },
+    {
+      "description": "sugar",
+      "type": "Groceries Expense",
+      "date": "2024-04-20",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 60,
+      "id": 721
+    },
+    {
+      "description": "petrol bike",
+      "type": "Monthly expense",
+      "date": "2024-04-21",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 220,
+      "id": 722
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-04-21",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 723
+    },
+    {
+      "description": "fastag purchase",
+      "type": "essential expense",
+      "date": "2024-04-22",
+      "account": "state bank of india",
+      "mode": "Amazon Pay",
+      "amount": 299.12,
+      "id": 724
+    },
+    {
+      "description": "train ticket ndls to ujjn",
+      "type": "train tickets",
+      "date": "2024-04-24",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 2534.5,
+      "id": 725
+    },
+    {
+      "description": "train ticket ndls to ujjn",
+      "type": "train tickets",
+      "date": "2024-04-24",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 2284.5,
+      "id": 726
+    },
+    {
+      "description": "train ticket ujjn to ndls",
+      "type": "train tickets",
+      "date": "2024-04-24",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 2345.07,
+      "id": 727
+    },
+    {
+      "description": "train ticket ujjn to ndls",
+      "type": "train tickets",
+      "date": "2024-04-24",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 2324.65,
+      "id": 728
+    },
+    {
+      "description": "golgappe",
+      "type": "outside food",
+      "date": "2024-04-24",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 40,
+      "id": 729
+    },
+    {
+      "description": "surahi and diya",
+      "type": "General Expense",
+      "date": "2024-04-24",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 370,
+      "id": 730
+    },
+    {
+      "description": "shweta for home expense",
+      "type": "Monthly expense",
+      "date": "2024-04-26",
+      "account": "state bank of india",
+      "mode": "paytm",
+      "amount": 500,
+      "id": 731
+    },
+    {
+      "description": "shweta for home expense",
+      "type": "Monthly expense",
+      "date": "2024-04-25",
+      "account": "cash",
+      "mode": "cash",
+      "amount": 1000,
+      "id": 732
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-04-22",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 733
+    },
+    {
+      "description": "groceries",
+      "type": "Groceries Expense",
+      "date": "2024-04-22",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 33,
+      "id": 734
+    },
+    {
+      "description": "dhokla om sweets",
+      "type": "outside food",
+      "date": "2024-04-23",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 68.26,
+      "id": 735
+    },
+    {
+      "description": "fruits and vegetables",
+      "type": "Fruits and vegetables",
+      "date": "2024-04-23",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 196,
+      "id": 736
+    },
+    {
+      "description": "Groceries from reliance",
+      "type": "Groceries Expense",
+      "date": "2024-04-25",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 187.64,
+      "id": 737
+    },
+    {
+      "description": "sleepyhead mattress vns",
+      "type": "varanasi expense",
+      "date": "2024-04-26",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 13549,
+      "id": 738
+    },
+    {
+      "description": "samosa and cake harish bakery",
+      "type": "outside food",
+      "date": "2024-04-26",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 130,
+      "id": 739
+    },
+    {
+      "description": "diesel for car",
+      "type": "Monthly expense",
+      "date": "2024-04-26",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 1000,
+      "id": 740
+    },
+    {
+      "description": "fruits & vegetables",
+      "type": "Fruits and vegetables",
+      "date": "2024-04-26",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 169,
+      "id": 741
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-04-26",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 742
+    },
+    {
+      "description": "cold drink",
+      "type": "outside food",
+      "date": "2024-04-26",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 40,
+      "id": 743
+    },
+    {
+      "description": "patanjali atta",
+      "type": "Groceries Expense",
+      "date": "2024-04-26",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 390,
+      "id": 744
+    },
+    {
+      "description": "golgappe",
+      "type": "outside food",
+      "date": "2024-04-27",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 40,
+      "id": 745
+    },
+    {
+      "description": "milk",
+      "type": "Milk",
+      "date": "2024-04-27",
+      "account": "bank of baroda",
+      "mode": "phonepe",
+      "amount": 66,
+      "id": 746
     }
   ],
   "paymentmodes": [
@@ -1123,7 +8494,7 @@
       "id": 6
     },
     {
-      "name": "Milk expense",
+      "name": "Milk",
       "description": "to track milk expense",
       "id": 7
     },
@@ -1141,6 +8512,66 @@
       "name": "travel expense",
       "description": "to track travel expense",
       "id": 10
+    },
+    {
+      "name": "bathroom renovation",
+      "description": "bathroom renovation",
+      "id": 11
+    },
+    {
+      "name": "Money Given",
+      "description": "to track money given",
+      "id": 12
+    },
+    {
+      "name": "cab expense",
+      "description": "to track cab expense",
+      "id": 13
+    },
+    {
+      "name": "flight ticket",
+      "description": "to track flight ticket expense",
+      "id": 14
+    },
+    {
+      "name": "train tickets",
+      "description": "to track train tickets",
+      "id": 15
+    },
+    {
+      "name": "Household",
+      "description": "to track household purchase",
+      "id": 16
+    },
+    {
+      "name": "General Expense",
+      "description": "to track general expense",
+      "id": 17
+    },
+    {
+      "name": "personal expense",
+      "description": "to track personal expense",
+      "id": 18
+    },
+    {
+      "name": "outside food",
+      "description": "to track outside food",
+      "id": 19
+    },
+    {
+      "name": "ivf neelkanth",
+      "description": "to track ivf expense",
+      "id": 20
+    },
+    {
+      "name": "yearly expense",
+      "description": "to track yearly expense",
+      "id": 21
+    },
+    {
+      "name": "to lend",
+      "description": "to track to lend",
+      "id": 22
     }
   ],
   "months": [
@@ -1197,6 +8628,10 @@
     {
       "id": 1,
       "name": "2023"
+    },
+    {
+      "id": 2,
+      "name": "2024"
     }
   ],
   "accounttypes": [
@@ -1215,6 +8650,20 @@
     {
       "id": 4,
       "name": "share"
+    }
+  ],
+  "types": [
+    {
+      "id": 1,
+      "name": "addition"
+    },
+    {
+      "id": 2,
+      "name": "transfer"
+    },
+    {
+      "id": 3,
+      "name": "investment"
     }
   ]
 }

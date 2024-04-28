@@ -5,11 +5,13 @@ import Form from "../generic/Form";
 import Label from "../generic/Label";
 import Input from "../generic/Input";
 import Button from "../generic/Button";
+import Select from "../generic/Select";
 
-function AccountBalanceForm({ title, formClassName, isEdit, accountName, onSubmit, accountId, balanceId, isDelete, accounts, balances }){
+function AccountBalanceForm({ title, formClassName, isEdit, accountName, onSubmit, accountId, balanceId, isDelete, balances, types }){
     const [accountBalanceDescription, setAccountBalanceDescription] = useState('');
     const [accountBalanceDate, setAccountBalanceDate] = useState('');
     const [amount, setAmount] = useState('');
+    const [type, setType] = useState('');
 
     const [isRequiredError, setIsRequiredError] = useState(false);
     const [requiredErrorMessage, setRequiredErrorMessage] = useState('');
@@ -23,6 +25,7 @@ function AccountBalanceForm({ title, formClassName, isEdit, accountName, onSubmi
                 setAccountBalanceDescription(balance.description);
                 setAccountBalanceDate(balance.date);
                 setAmount(balance.amount);
+                //setType("0");
             }else{
                 navigate(`/account/balance/${accountId}`);
             }
@@ -48,13 +51,20 @@ function AccountBalanceForm({ title, formClassName, isEdit, accountName, onSubmi
         setAmount(parseFloat(event.target.value) || 0.0 );
     }
 
+    const handlTypeChange = e =>{
+        setIsRequiredError(false);
+        setRequiredErrorMessage('');
+        setType(e.target.value);
+    }
+
     const resetAccountBalanceFormValues = ()=>{
         setAccountBalanceDescription('');
         setAccountBalanceDate('');
-        setAmount('')
+        setAmount('');
+        setType("0");
         setIsRequiredError(false);
         setRequiredErrorMessage('');
-    }
+    }  
 
     const handleAccountBalanceFormSubmit = async (event) =>{
         event.preventDefault();
@@ -74,10 +84,15 @@ function AccountBalanceForm({ title, formClassName, isEdit, accountName, onSubmi
             setRequiredErrorMessage("Please Fill Account Balance Amount");
             return;
         }
+        if(!type || type === "0"){
+            setIsRequiredError(true);
+            setRequiredErrorMessage("Please Select Type");
+            return;
+        }
 
         const newAccountBalanceObj = {
             description: accountBalanceDescription,
-            type: 'addition',
+            type: type,
             date: accountBalanceDate,
             account: accountName,
             amount: amount
@@ -147,8 +162,19 @@ function AccountBalanceForm({ title, formClassName, isEdit, accountName, onSubmi
                                value={amount} onChange={handleAmountChange}
                                disabled={isDelete}
                         />
-                    </div>
+                    </div>                 
                 </div>
+                <div className="col">
+                        <div className="mb-3">
+                            <Label title="Type" htmlFor="type" required/>
+                            <Select items={types} id="type"
+                                    title="Select Type"
+                                    value={type}
+                                    onChange={handlTypeChange}
+                                    disabled={isDelete}
+                            />
+                        </div>
+                    </div>  
             </div>
             {submitButton}
             {!isDelete && <Button type={"reset"} className={"btn btn-secondary"} title="Reset" style={{marginLeft: '5px'}}/>}

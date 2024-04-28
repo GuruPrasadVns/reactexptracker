@@ -4,7 +4,7 @@ import Header from "../../components/generic/Header";
 import AccountBalanceList from "../../components/Account/AccountBalanceList";
 import AccountBalanceForm from "../../components/Account/AccountBalanceForm";
 
-function ShowAccountBalancePage({ accounts, balances, onSubmit }){
+function ShowAccountBalancePage({ accounts, balances, onSubmit , types}){
     const [accountName, setAccountName] = useState('');
     const { accountId } = useParams();
     const navigate = useNavigate();
@@ -33,6 +33,7 @@ function ShowAccountBalancePage({ accounts, balances, onSubmit }){
                     accountName={accountName}
                     onSubmit = {onSubmit}
                     accountId = {accountId}
+                    types={types}
                 />
                 <AccountBalanceList accountBalances={accountBalances} accountId={accountId}/>
             </div>

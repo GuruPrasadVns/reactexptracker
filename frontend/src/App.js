@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import {createBrowserRouter, RouterProvider } from "react-router-dom";
+import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import axios from "axios";
 
 import HomePage from "./pages/Home/HomePage";
@@ -30,6 +30,7 @@ function App() {
     const [months,setMonths] = useState([]);
     const [years,setYears] = useState([]);
     const [accountTypes, setAccountTypes] = useState([]);
+    const [types, setTypes] = useState([]);
 
     const [isError, setIsError] = useState(false);
     const [errorMessage, setErrorMessage] = useState('');
@@ -44,6 +45,7 @@ function App() {
             fetchMonths();
             fetchYears();
             fetchAccountTypes();
+            fetchTypes();
         }catch (e) {
             setIsError(true);
             setErrorMessage(`Error in fetching backend data`)
@@ -62,6 +64,15 @@ function App() {
         </>
     }
 
+    const fetchTypes = async ()=>{
+        try{
+            const response = await axios.get('http://localhost:3001/types');
+            setTypes(response.data);
+        }catch (e) {
+            setIsError(true);
+            setErrorMessage(`Error in fetching types ${e.message}`)
+        }
+    }
     const fetchAccountTypes = async ()=>{
         try{
             const response = await axios.get('http://localhost:3001/accounttypes');
@@ -431,6 +442,7 @@ function App() {
             element: <ShowAccountBalancePage
                 accounts={accounts}
                 balances = {balances}
+                types={types}
                 onSubmit = { addBalance }
             />
         },
